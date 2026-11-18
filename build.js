@@ -500,6 +500,7 @@ const DESC = `${club.nazov} – rozpis, výsledky a tabuľka áčka (${A.leagueN
 
 // rozpis áčka po polsezónach: jeseň (júl – december) a jar (január – jún)
 const shortOpp = (s) => esc(s);
+const roundNo = (m) => (m.roundName || '').replace(/\D+/g, '');
 function rozpis(R) {
   const list = teamMatches(A.slug).filter((m) => !m.cup).sort((a, b) => (a.date < b.date ? -1 : 1));
   const half = (m) => (Number(m.date.slice(5, 7)) >= 7 ? 'j' : 'r');
@@ -508,16 +509,27 @@ function rozpis(R) {
     const d = dObj(m.date);
     const us = '<b>Brestovec</b>';
     const them = shortOpp(m.opponent);
-    const match = m.home ? `${us} – ${them}` : `${them} – ${us}`;
+    const match = m.home ? `${us}&nbsp;– ${them}` : `${them}&nbsp;– ${us}`;
     const href = m.detail || !m.past ? `${R}${m.url}` : '';
     const val = m.past ? (m.score ? `<span class="rz-s rz-s--${m.res}"><span class="sr">${RES[m.res]}, </span>${esc(m.score)}</span>` : '<span class="rz-s">–</span>') : `<span class="rz-t">${esc(m.time || '')}</span>`;
     const isNext = m === nextA;
-    return `<tr${isNext ? ' class="rz-next"' : ''}><td class="rz-k">${esc((m.roundName || '').replace(/\D+/g, '')) || '·'}</td><td class="rz-d"><span class="rz-dd">${dDay(m.date)}</span> ${d.getUTCDate()}. ${d.getUTCMonth() + 1}.</td><th scope="row" class="rz-m">${href ? `<a href="${href}">${match}</a>` : match}${isNext ? '<span class="rz-tag">najbližší</span>' : ''}</th><td class="rz-v">${val}</td></tr>`;
+    const txt = `<span class="rz-mt">${match}${isNext ? '<span class="rz-tag">najbližší</span>' : ''}</span>`;
+    return `<tr${isNext ? ' class="rz-next"' : ''}><td class="rz-k">${roundNo(m) || '·'}</td><td class="rz-d"><span class="rz-dd">${dDay(m.date)}</span> ${d.getUTCDate()}. ${d.getUTCMonth() + 1}.</td><th scope="row" class="rz-m">${href ? `<a href="${href}">${txt}</a>` : txt}</th><td class="rz-v">${val}</td></tr>`;
   };
+  // pri nepárnom počte tímov má každý tím voľné kolá – v rozpise ich ukážeme, aby čísla kôl nepreskakovali
+  const bye = (k) => `<tr class="rz-bye"><td class="rz-k">${k}</td><td class="rz-d"></td><th scope="row" class="rz-m">voľné kolo</th><td class="rz-v"></td></tr>`;
+  let prev = 0;
+  const rows = (g) => g.map((m) => {
+    const k = Number(roundNo(m));
+    let gap = '';
+    if (A.of % 2 && k) for (let i = prev + 1; i < k; i++) gap += bye(i);
+    if (k) prev = k;
+    return gap + row(m);
+  }).join('');
   return groups.map(([k, label]) => {
     const g = list.filter((m) => half(m) === k);
     if (!g.length) return '';
-    return `<tbody><tr class="rz-h"><th colspan="4" scope="rowgroup">${label}</th></tr>${g.map(row).join('')}</tbody>`;
+    return `<tbody><tr class="rz-h"><th colspan="4" scope="rowgroup">${label}</th></tr>${rows(g)}</tbody>`;
   }).join('');
 }
 
@@ -529,7 +541,7 @@ add('', {
     const me = A.table?.rows.find((r) => r.our);
     return `<section class="rz-top"><div class="wrap">
   <h1 class="h1">TJ Jednota Brestovec</h1>
-  <p class="rz-p">${esc(A.leagueName)}, ročník ${SEASON}. Víťaz VII. ligy ObFZ Trenčín 2023/24, futbal v obci od roku ${club.zalozenie}.</p>
+  <p class="rz-p">${esc(A.leagueName)}, ročník ${SEASON}. Víťaz VII. ligy ObFZ Trenčín 2023/24, futbal v Brestovci od roku ${club.zalozenie}.</p>
 </div></section>
 <section class="sec sec--first"><div class="wrap rz-grid">
   <section class="rz-main" aria-labelledby="rz-h">
@@ -564,7 +576,7 @@ ${A.table ? `<section class="sec sec--tint" aria-labelledby="t-h"><div class="wr
 
 add('klub/', {
   title: 'Klub', active: 'klub/', desc: `${club.nazov}: futbal od roku ${club.zalozenie}, tituly vo VII. lige ObFZ Trenčín 2015/16 a 2023/24, ročníky áčka, ihrisko Pod Solniskom a obec Brestovec.`,
-  body: (R) => `${pageHead({ title: 'Klub', sub: `${esc(club.pravnyNazov)}, v erbe rok ${club.zalozenie}. Klubové farby: ${esc(club.farby)}.`, R, crumbs: [[null, 'Klub']] })}
+  body: (R) => `${pageHead({ title: 'Klub', sub: `${esc(club.pravnyNazov)}, v erbe rok ${club.zalozenie}. Farby z erbu: ${esc(club.farby)}.`, R, crumbs: [[null, 'Klub']] })}
 <section class="sec sec--first"><div class="wrap cols2">
   <div><h2 class="h2">Z ročníkov</h2>${facts(club.kronika.zoznam.map((x) => ({ k: x.rok, t: x.text })))}</div>
   <div><h2 class="h2">Ročníky áčka</h2>${seasonsTable(club.rocniky.zoznam)}</div>

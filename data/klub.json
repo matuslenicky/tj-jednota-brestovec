@@ -9,7 +9,7 @@
   "_zalozenie": "erb klubu (Sportnet): nápis FK Brestovec 1951; iný zdroj sme nenašli",
   "farby": "modrá a žltá",
   "_farby": "erb klubu (Sportnet) a farby obce (Symboly obce)",
-  "erbAlt": "Erb klubu: strieborná ryba na modrom štíte v žltom kruhu s nápisom FK Brestovec 1951",
+  "erbAlt": "Erb klubu: strieborná ryba na modrom štíte v žltom kruhu, okolo tmavý prstenec s nápisom FK Brestovec 1951",
   "adresa": ["907 01 Brestovec"],
   "_adresa": "Sportnet (ihrisko Pod Solniskom, PSČ 907 01)",
   "kontakt": { "email": "duga@samtek.sk" },
@@ -23,7 +23,7 @@
     "geo": [48.7863351, 17.5636857],
     "fakty": [
       { "k": "1990 – 2005", "t": "Obec postavila futbalové ihrisko, šatne so sprchami, vlastný zdroj vody a tribúnu." },
-      { "k": "Neskôr", "t": "Športový areál pribudol tenisový kurt, posedenie pre spolky a trávnatá plocha na tréning." },
+      { "k": "Neskôr", "t": "Športový areál sa rozšíril o tenisový kurt, posedenie pre spolky a trávnatú plochu na tréning." },
       { "k": "Tradícia", "t": "Okrem súťažných zápasov telovýchovná jednota organizuje tradičný osadový turnaj." }
     ]
   },
@@ -34,7 +34,7 @@
       { "rok": "2015/16", "text": "Víťaz VII. ligy Juh ObFZ Trenčín: 111 gólov a jediná prehra v 26 zápasoch." },
       { "rok": "2017/18", "text": "2. miesto vo VI. lige ObFZ Trenčín za rezervou Spartaka Myjava." },
       { "rok": "2023/24", "text": "Víťaz VII. ligy ObFZ Trenčín s 99 gólmi a postup do VI. ligy Západ." },
-      { "rok": "2025/26", "text": "2. miesto vo VII. lige ObFZ Trenčín o jediný bod za susedným Krajným, len dve prehry." }
+      { "rok": "2025/26", "text": "2. miesto vo VII. lige ObFZ Trenčín o jediný bod za Krajným, len dve prehry." }
     ]
   },
   "rocniky": {

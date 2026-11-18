@@ -61,6 +61,7 @@
 .rz-s--l { color: var(--muted); box-shadow: inset 0 0 0 1px var(--line); }
 .rz-t { font: 700 1.1rem/1 var(--disp); }
 .rz-next td, .rz-next th { background: var(--yellow-l); }
+.rz-bye th { height: 44px; font-style: italic; color: var(--muted); }
 .rz-tag { display: inline-block; margin-left: 8px; padding: 2px 6px; font: 700 .75rem/1.2 var(--disp); letter-spacing: .08em; text-transform: uppercase; background: var(--yellow); color: var(--ink); border-radius: 2px; vertical-align: 2px; }
 @media (max-width: 559.98px) { .rz { font-size: 1.0313rem; } .rz-k { display: none; } .rz td, .rz tbody th { padding: 8px 4px; line-height: 1.3; } .rz-d { width: 3.4em; font-size: .9375rem; line-height: 1.2; } .rz-dd { display: block; font-size: .875rem; } .rz-tag { display: block; width: max-content; margin: 4px 0 0; } .rz-s, .rz-t { font-size: 1rem; min-width: 44px; } }
 .rz-side { display: grid; gap: 18px; }

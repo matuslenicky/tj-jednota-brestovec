@@ -8,7 +8,7 @@ Ukážka: https://matuslenicky.github.io/tj-jednota-brestovec/ · administrácia
 
 **„Rozpis“ (dizajn v2, 18. 11. 2026).** Papierová biela, modrá a žltá z erbu a obce. Písmo Barlow Condensed (titulky, čísla) a EB Garamond (text).
 
-- hlavným obsahom úvodu je celý rozpis kôl áčka ako sadzaná tabuľka zo športovej strany novín: kolo, dátum, zápas domáci – hostia a výsledok alebo čas, rozdelený na jeseň a jar; najbližší zápas je zvýraznený žltou,
+- hlavným obsahom úvodu je celý rozpis kôl áčka ako sadzaná tabuľka zo športovej strany novín: kolo, dátum, zápas domáci – hostia a výsledok alebo čas, rozdelený na jeseň a jar; najbližší zápas je zvýraznený žltou, voľné kolá (pri nepárnom počte tímov) majú vlastný riadok, aby čísla kôl nepreskakovali,
 - vedľa (na telefóne nad ním) najbližší zápas a miesto v tabuľke, pod ním celá tabuľka VI. ligy Západ,
 - ročníky áčka od 2014/15, ihrisko Pod Solniskom a obec sú na stránke Klub,
 - menu na telefóne je svetlá plocha cez celú obrazovku.
