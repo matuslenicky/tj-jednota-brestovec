@@ -1,0 +1,82 @@
+{
+  "_zdroj": "Ručne zapísané len zo zverejnených zdrojov (uvedené pri každej časti). Nič nedopĺňať odhadom – chýbajúce údaje dodá klub.",
+  "nazov": "TJ Jednota Brestovec",
+  "kratky": "Brestovec",
+  "pravnyNazov": "Telovýchovná jednota Jednota Brestovec",
+  "_pravnyNazov": "Sportnet",
+  "mesto": "Brestovec",
+  "zalozenie": 1951,
+  "_zalozenie": "erb klubu (Sportnet): nápis FK Brestovec 1951; iný zdroj sme nenašli",
+  "farby": "modrá a žltá",
+  "_farby": "erb klubu (Sportnet) a farby obce (Symboly obce)",
+  "erbAlt": "Erb klubu: strieborná ryba na modrom štíte v žltom kruhu s nápisom FK Brestovec 1951",
+  "adresa": ["907 01 Brestovec"],
+  "_adresa": "Sportnet (ihrisko Pod Solniskom, PSČ 907 01)",
+  "kontakt": { "email": "duga@samtek.sk" },
+  "_kontakt": "Sportnet (kontakt klubu)",
+  "sportnetUrl": "https://sportnet.sme.sk/futbalnet/k/tj-jednota-brestovec/",
+  "obecWeb": "https://www.brestovec.sk/",
+  "obecKlub": "https://www.brestovec.sk/udalosti/futbal/",
+  "stadion": {
+    "_zdroj": "Sportnet (názov, poloha), web obce (História a život obce)",
+    "nazov": "Ihrisko Pod Solniskom",
+    "geo": [48.7863351, 17.5636857],
+    "fakty": [
+      { "k": "1990 – 2005", "t": "Obec postavila futbalové ihrisko, šatne so sprchami, vlastný zdroj vody a tribúnu." },
+      { "k": "Neskôr", "t": "Športový areál pribudol tenisový kurt, posedenie pre spolky a trávnatá plocha na tréning." },
+      { "k": "Tradícia", "t": "Okrem súťažných zápasov telovýchovná jednota organizuje tradičný osadový turnaj." }
+    ]
+  },
+  "kronika": {
+    "_zdroj": "Sportnet (konečné tabuľky), erb klubu",
+    "zoznam": [
+      { "rok": "1951", "text": "Rok v erbe klubu, ktorý nesie meno FK Brestovec." },
+      { "rok": "2015/16", "text": "Víťaz VII. ligy Juh ObFZ Trenčín: 111 gólov a jediná prehra v 26 zápasoch." },
+      { "rok": "2017/18", "text": "2. miesto vo VI. lige ObFZ Trenčín za rezervou Spartaka Myjava." },
+      { "rok": "2023/24", "text": "Víťaz VII. ligy ObFZ Trenčín s 99 gólmi a postup do VI. ligy Západ." },
+      { "rok": "2025/26", "text": "2. miesto vo VII. lige ObFZ Trenčín o jediný bod za susedným Krajným, len dve prehry." }
+    ]
+  },
+  "rocniky": {
+    "_zdroj": "Sportnet – konečné tabuľky áčka (dospelí), stiahnuté 18. 11. 2026",
+    "zoznam": [
+      { "rok": "2014/15", "liga": "VII. liga Juh ObFZ Trenčín", "poz": 3, "z": 16, "skore": "90:46", "body": 62 },
+      { "rok": "2015/16", "liga": "VII. liga Juh ObFZ Trenčín", "poz": 1, "z": 14, "skore": "111:33", "body": 63, "titul": true, "pozn": "19 výhier, 6 remíz, 1 prehra" },
+      { "rok": "2016/17", "liga": "VI. liga ObFZ Trenčín", "poz": 7, "z": 16, "skore": "82:65", "body": 44 },
+      { "rok": "2017/18", "liga": "VI. liga ObFZ Trenčín", "poz": 2, "z": 16, "skore": "65:61", "body": 55 },
+      { "rok": "2018/19", "liga": "VI. liga ObFZ Trenčín", "poz": 7, "z": 16, "skore": "46:54", "body": 39 },
+      { "rok": "2019/20", "liga": "VI. liga ObFZ Trenčín", "poz": 2, "z": 16, "skore": "33:24", "body": 29, "pozn": "16 zápasov, o bod za Očkovom" },
+      { "rok": "2020/21", "liga": "VI. liga ObFZ Trenčín", "poz": 14, "z": 16, "skore": "11:21", "body": 7, "pozn": "10 zápasov" },
+      { "rok": "2021/22", "liga": "VI. liga ObFZ Trenčín", "poz": 5, "z": 16, "skore": "51:55", "body": 40 },
+      { "rok": "2022/23", "liga": "VII. liga ObFZ Trenčín", "poz": 10, "z": 16, "skore": "66:82", "body": 36 },
+      { "rok": "2023/24", "liga": "VII. liga ObFZ Trenčín", "poz": 1, "z": 16, "skore": "99:51", "body": 68, "titul": true, "pozn": "22 výhier, 2 remízy, 6 prehier" },
+      { "rok": "2024/25", "liga": "VI. liga Západ", "poz": 6, "z": 15, "skore": "56:58", "body": 42 },
+      { "rok": "2025/26", "liga": "VII. liga ObFZ Trenčín", "poz": 2, "z": 16, "skore": "80:25", "body": 68, "pozn": "o bod za Krajným" }
+    ]
+  },
+  "uspechy": [
+    { "rok": "2023/24", "text": "víťaz VII. ligy ObFZ Trenčín" },
+    { "rok": "2015/16", "text": "víťaz VII. ligy Juh ObFZ Trenčín, 111 gólov" }
+  ],
+  "obec": {
+    "_zdroj": "web obce Brestovec (História a život obce, Symboly obce)",
+    "fakty": [
+      { "k": "1955", "t": "Obec vznikla odčlenením kopaníc od Myjavy: 1 649 obyvateľov a 379 domov na 38 osadách." },
+      { "k": "Tunel", "t": "V rokoch 1924 – 1927 tu postavili železnicu a Tunel generála Dr. Milana Rastislava Štefánika. Má 2 987 metrov a bol vtedy najdlhším tunelom v Československu." },
+      { "k": "Erb", "t": "Strieborná ryba z erbu Myjavy na modrom štíte a dve zlaté brestové vetvičky, ktoré pripomínajú meno obce." }
+    ]
+  },
+  "sutaze": {
+    "_pozn": "čitateľné názvy súťaží namiesto skratiek a názvov so sponzormi zo Sportnetu",
+    "VI. liga Západ  Macron | yoursport  ZsFZ": "VI. liga Západ",
+    "III. liga U09 - ObFZ TN": "III. liga prípraviek U9"
+  },
+  "nazvy": {
+    "_pozn": "čitateľné názvy súperov namiesto úradných názvov a veľkých písmen zo Sportnetu",
+    "TJ Iskra - Horné Orešany": "TJ Iskra Horné Orešany",
+    "Telovýchovná jednota Kopčany": "TJ Kopčany",
+    "TJ Slovan Šaštín - Stráže": "TJ Slovan Šaštín-Stráže",
+    "TJ SPARTAK ŠAŠTÍN-STRÁŽE": "TJ Spartak Šaštín-Stráže",
+    "TJ Slovan Rovnosť Krajné": "TJ Slovan Rovnosť Krajné"
+  }
+}

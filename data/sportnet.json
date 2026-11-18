@@ -1,0 +1,6196 @@
+{
+ "source": "Sportnet / Futbalnet",
+ "appSpace": "tj-jednota-brestovec.futbalnet.sk",
+ "season": "2026/2027",
+ "updated": "2026-11-18T06:55:21.259Z",
+ "teams": [
+  {
+   "slug": "a-muzstvo",
+   "short": "A-mužstvo",
+   "sub": "Muži",
+   "order": 0,
+   "adult": true,
+   "id": "6a353195e5a4847e622639f6",
+   "sportnetName": "Dospelí (A)",
+   "union": "ZsFZ",
+   "competitions": [
+    {
+     "key": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+     "competitionId": "6a0ff2d65736165c0e4155e3",
+     "partId": "6a0ff2d63bff416b52e1d01e",
+     "name": "VI. liga Západ  Macron | yoursport  ZsFZ",
+     "part": "VI. liga Západ  Macron | yoursport  ZsFZ",
+     "cup": false
+    }
+   ],
+   "squad": {
+    "athletes": [
+     {
+      "id": "5d657c6d86dc8b7238309836",
+      "name": "Adrián Hučko",
+      "nr": 89,
+      "pos": "goalkeeper",
+      "captain": false
+     },
+     {
+      "id": "5d655af486dc8b723829775c",
+      "name": "Ondrej Šraga",
+      "nr": 24,
+      "pos": "goalkeeper",
+      "captain": false
+     },
+     {
+      "id": "5d6577a986dc8b72382f5936",
+      "name": "Pavol Nálepa",
+      "nr": 2,
+      "pos": "defender",
+      "captain": false
+     },
+     {
+      "id": "5d65742c86dc8b72382e7c11",
+      "name": "Peter Egri",
+      "nr": 37,
+      "pos": "defender",
+      "captain": false
+     },
+     {
+      "id": "69aac9662d75b6798820f07e",
+      "name": "Bernard Peter Orlando",
+      "nr": 8,
+      "pos": "defender",
+      "captain": false
+     },
+     {
+      "id": "5d65556686dc8b72382855ff",
+      "name": "Marián Šimek",
+      "nr": 21,
+      "pos": "defender",
+      "captain": false
+     },
+     {
+      "id": "5d655a1986dc8b723829495d",
+      "name": "Róbert Horeš",
+      "nr": 33,
+      "pos": "defender",
+      "captain": true
+     },
+     {
+      "id": "5d658f2486dc8b72383415f6",
+      "name": "Filip Marek",
+      "nr": 7,
+      "pos": "defender",
+      "captain": false
+     },
+     {
+      "id": "5d6585fc86dc8b72383274ee",
+      "name": "Alex Černák",
+      "nr": 6,
+      "pos": "defender",
+      "captain": false
+     },
+     {
+      "id": "5d657a9186dc8b72383016c2",
+      "name": "Slavomír Gálik",
+      "nr": 13,
+      "pos": "defender",
+      "captain": false
+     },
+     {
+      "id": "5d656f0f86dc8b72382d6426",
+      "name": "Marek Vrábel",
+      "nr": 37,
+      "pos": "defender",
+      "captain": false
+     },
+     {
+      "id": "5d657d4086dc8b723830c023",
+      "name": "Jakub Kosík",
+      "nr": 3,
+      "pos": "midfielder",
+      "captain": false
+     },
+     {
+      "id": "660fede1acab54e40fca7274",
+      "name": "Mykhailo Cherepko",
+      "nr": 8,
+      "pos": "midfielder",
+      "captain": false
+     },
+     {
+      "id": "66d8ab825375b54b6fbb9586",
+      "name": "Robson Morais Dias",
+      "nr": 5,
+      "pos": "midfielder",
+      "captain": false
+     },
+     {
+      "id": "5d6591fd86dc8b7238348be0",
+      "name": "Martin Durec",
+      "nr": 22,
+      "pos": "midfielder",
+      "captain": false
+     },
+     {
+      "id": "6a742105db52af0a52787720",
+      "name": "Arthur Paulo De Oliveira",
+      "nr": 9,
+      "pos": "midfielder",
+      "captain": false
+     },
+     {
+      "id": "5d6577ce86dc8b72382f60fd",
+      "name": "Ondrej Čerešňa",
+      "nr": 5,
+      "pos": "midfielder",
+      "captain": false
+     },
+     {
+      "id": "5d658f0d86dc8b7238341300",
+      "name": "Miroslav Bies",
+      "nr": 31,
+      "pos": "midfielder",
+      "captain": false
+     },
+     {
+      "id": "5d658c2386dc8b7238338f68",
+      "name": "Bojan Stajković",
+      "nr": 21,
+      "pos": "midfielder",
+      "captain": false
+     },
+     {
+      "id": "5d6580a486dc8b72383189a4",
+      "name": "Viktor Klimáček",
+      "nr": 11,
+      "pos": "forward",
+      "captain": false
+     },
+     {
+      "id": "6a7564aedb52af0a5278ee8e",
+      "name": "Lucas Joaquín Garrido Gaete",
+      "nr": 17,
+      "pos": "forward",
+      "captain": false
+     },
+     {
+      "id": "5d655bf186dc8b723829b107",
+      "name": "Filip Durec",
+      "nr": 10,
+      "pos": "forward",
+      "captain": false
+     },
+     {
+      "id": "6a92afe50c8c39fc24ad9f83",
+      "name": "Jakub Košarík",
+      "nr": 4,
+      "pos": "forward",
+      "captain": false
+     },
+     {
+      "id": "5d65699086dc8b72382c4461",
+      "name": "Patrik Kubica",
+      "nr": 12,
+      "pos": "forward",
+      "captain": false
+     }
+    ],
+    "crew": [
+     {
+      "name": "Dalibor Dubovský",
+      "role": "coach"
+     },
+     {
+      "name": "Filip Durec",
+      "role": "assist_coach"
+     },
+     {
+      "name": "Peter Nemček",
+      "role": "assist_coach"
+     },
+     {
+      "name": "Ján Černák",
+      "role": "manager"
+     },
+     {
+      "name": "Jana Nemčeková",
+      "role": "doctor"
+     },
+     {
+      "name": "Peter Mikolášek",
+      "role": "doctor"
+     },
+     {
+      "name": "Marek Vrábel",
+      "role": "physiotherapist"
+     },
+     {
+      "name": "Pavol Duga",
+      "role": "club_representative"
+     },
+     {
+      "name": "Ján Majtán",
+      "role": "security_manager"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "u9-pripravka",
+   "short": "U9",
+   "sub": "Prípravka",
+   "order": 91,
+   "adult": false,
+   "id": "6a4554b897d4e73d18cef443",
+   "sportnetName": "U09 - Prípravka (A)",
+   "union": "ObFZTrencin",
+   "competitions": [
+    {
+     "key": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+     "competitionId": "6a26c85c233cdeb1e781f0f6",
+     "partId": "6a26c8fe07041eda4046c4d5",
+     "name": "III. liga U09 - ObFZ TN",
+     "part": "III. liga U09 Juh",
+     "cup": false
+    }
+   ],
+   "squad": {
+    "athletes": [
+     {
+      "id": "6a869b34e79286beb27ac1c0",
+      "name": "Pavol Marušic",
+      "nr": 1,
+      "pos": "goalkeeper",
+      "captain": false
+     },
+     {
+      "id": "6a0ff2c63bff416b52e1d01a",
+      "name": "Samuel Šimek",
+      "nr": 1,
+      "pos": "goalkeeper",
+      "captain": false
+     },
+     {
+      "id": "69f45a75d521a2c7ac8439bd",
+      "name": "Laura Juríková",
+      "nr": 5,
+      "pos": "defender",
+      "captain": false
+     },
+     {
+      "id": "657171e81268c2dd296def50",
+      "name": "Daniel Kubíček",
+      "nr": 3,
+      "pos": "defender",
+      "captain": false
+     },
+     {
+      "id": "6ab36c2619004fe6d2e5993a",
+      "name": "Lukáš Klasovitý",
+      "nr": 5,
+      "pos": "defender",
+      "captain": false
+     },
+     {
+      "id": "6ac1ece2631eac10f08e069c",
+      "name": "Kristián Kača",
+      "nr": 2,
+      "pos": "defender",
+      "captain": false
+     },
+     {
+      "id": "6a869b82e79286beb27ac1dd",
+      "name": "Lucas Buzay",
+      "nr": 9,
+      "pos": "midfielder",
+      "captain": false
+     },
+     {
+      "id": "6aa02082da066579ea65daaa",
+      "name": "Filip Filan",
+      "nr": 10,
+      "pos": "midfielder",
+      "captain": false
+     },
+     {
+      "id": "67179944395d3d779895be9b",
+      "name": "Nikola Pilková",
+      "nr": 3,
+      "pos": "forward",
+      "captain": true
+     },
+     {
+      "id": "6a87ebd2e79286beb27b0362",
+      "name": "Matúš Praženka",
+      "nr": 6,
+      "pos": "forward",
+      "captain": false
+     },
+     {
+      "id": "6a869ba7e79286beb27ac1e9",
+      "name": "Matúš Škramovský",
+      "nr": 17,
+      "pos": "forward",
+      "captain": false
+     },
+     {
+      "id": "6a869b97e79286beb27ac1e4",
+      "name": "Nikolas Mička",
+      "nr": 8,
+      "pos": "forward",
+      "captain": false
+     },
+     {
+      "id": "6a97c7340c8c39fc24ae29f5",
+      "name": "Matteo Havlík",
+      "nr": 7,
+      "pos": "forward",
+      "captain": false
+     },
+     {
+      "id": "6a97c9050c8c39fc24ae2ad0",
+      "name": "Adam Duga",
+      "nr": 11,
+      "pos": "forward",
+      "captain": false
+     }
+    ],
+    "crew": [
+     {
+      "name": "Ľubomír Jankových",
+      "role": "coach"
+     },
+     {
+      "name": "Peter Nemček",
+      "role": "manager"
+     },
+     {
+      "name": "Jana Nemčeková",
+      "role": "doctor"
+     }
+    ]
+   }
+  }
+ ],
+ "matches": [
+  {
+   "id": "6a54c6f0d14e91f303fe1430",
+   "team": "a-muzstvo",
+   "date": "2026-08-09",
+   "time": "17:00",
+   "home": true,
+   "opponent": "FC Družstevník Rybky",
+   "oppSpace": "tj-fc-druzstevnik-rybky.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "1",
+   "played": true,
+   "score": "3:0",
+   "goals": [
+    {
+     "min": "29",
+     "player": "Bernard Peter Orlando",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "88",
+     "player": "Róbert Horeš",
+     "side": "our",
+     "kind": "penalty"
+    },
+    {
+     "min": "90",
+     "player": "Filip Marek",
+     "side": "our",
+     "kind": "goal"
+    }
+   ],
+   "cards": [
+    {
+     "min": "15",
+     "player": "Jakub Kuchta",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "33",
+     "player": "Robson Morais Dias",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "52",
+     "player": "Martin Durec",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "76",
+     "player": "Jakub Cintula",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "85",
+     "player": "Jakub Kosík",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "88",
+     "player": "Martin Kadlečík",
+     "side": "opp",
+     "kind": "yellow"
+    }
+   ],
+   "venue": "Pod Solniskom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962526",
+   "half": "1:0",
+   "referee": "Martin Jančovič",
+   "audience": 300,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Adrián Hučko",
+       "nr": 89,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Pavol Nálepa",
+       "nr": 2,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Kosík",
+       "nr": 3,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Peter Egri",
+       "nr": 37,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 6,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Bernard Peter Orlando",
+       "nr": 8,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Robson Morais Dias",
+       "nr": 10,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Viktor Klimáček",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marián Šimek",
+       "nr": 21,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Róbert Horeš",
+       "nr": 33,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Martin Durec",
+       "nr": 22,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Ondrej Šraga",
+       "nr": 1,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Ondrej Čerešňa",
+       "nr": 5,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Miroslav Bies",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Lucas Joaquín Garrido Gaete",
+       "nr": 4,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "Martin Kadlečík",
+       "nr": 1,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Adam Španka",
+       "nr": 5,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lukáš Fodor",
+       "nr": 14,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Filip Gabriel",
+       "nr": 17,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Kuchta",
+       "nr": 8,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Tomáš Vacula",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Kristián Ravas",
+       "nr": 10,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Tomáš Fila",
+       "nr": 19,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Hutta",
+       "nr": 20,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Ivan Ravas",
+       "nr": 9,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Richard Praskač",
+       "nr": 15,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Šimon Mach",
+       "nr": 3,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Cintula",
+       "nr": 7,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Chudý",
+       "nr": 16,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Tomáš Lánik",
+       "nr": 4,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Boris CIGÁŇ",
+       "nr": 24,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Martin Petrúfka"
+    },
+    "subs": [
+     {
+      "min": "64",
+      "out": "Robson Morais Dias",
+      "in": "Arthur Paulo De Oliveira",
+      "side": "our"
+     },
+     {
+      "min": "68",
+      "out": "Filip Gabriel",
+      "in": "Šimon Mach",
+      "side": "opp"
+     },
+     {
+      "min": "68",
+      "out": "Richard Praskač",
+      "in": "Jakub Cintula",
+      "side": "opp"
+     },
+     {
+      "min": "81",
+      "out": "Tomáš Vacula",
+      "in": "Jakub Chudý",
+      "side": "opp"
+     },
+     {
+      "min": "81",
+      "out": "Kristián Ravas",
+      "in": "Boris CIGÁŇ",
+      "side": "opp"
+     },
+     {
+      "min": "85",
+      "out": "Martin Durec",
+      "in": "Ondrej Čerešňa",
+      "side": "our"
+     },
+     {
+      "min": "89",
+      "out": "Viktor Klimáček",
+      "in": "Filip Marek",
+      "side": "our"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a54c6e7d14e91f303fdef0a",
+   "team": "a-muzstvo",
+   "date": "2026-08-16",
+   "time": "17:00",
+   "home": false,
+   "opponent": "TJ Iskra - Horné Orešany",
+   "oppSpace": "tj-iskra-horne-oresany.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "2",
+   "played": true,
+   "score": "1:2",
+   "goals": [
+    {
+     "min": "37",
+     "player": "Robson Morais Dias",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "85",
+     "player": "Ondrej Čerešňa",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "90",
+     "player": "Lukáš Podhorský",
+     "side": "opp",
+     "kind": "goal"
+    }
+   ],
+   "cards": [],
+   "venue": "TJ Iskra",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962538",
+   "half": "0:1",
+   "referee": "Tibor Santa",
+   "audience": 90,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Ondrej Šraga",
+       "nr": 24,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Kosík",
+       "nr": 3,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Peter Egri",
+       "nr": 37,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 6,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Bernard Peter Orlando",
+       "nr": 8,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Durec",
+       "nr": 10,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Viktor Klimáček",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marián Šimek",
+       "nr": 21,
+       "pos": "midfielder",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Robson Morais Dias",
+       "nr": 18,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Martin Durec",
+       "nr": 22,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Adrián Hučko",
+       "nr": 13,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Ondrej Čerešňa",
+       "nr": 5,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "Adrián Pekarovič",
+       "nr": 44,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Matúš Capák",
+       "nr": 98,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Eduard Hronský",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Peško",
+       "nr": 5,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Matúš Baranovič",
+       "nr": 7,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Simon Ščasný",
+       "nr": 4,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Šimon Demo",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Tomáš Chudjak",
+       "nr": 16,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Andrej Mekký",
+       "nr": 10,
+       "pos": "forward",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Tomáš Keleši",
+       "nr": 99,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Andrej Tóth",
+       "nr": 12,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Aleksander Kuzmanović",
+       "nr": 77,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Patrik Moravčík",
+       "nr": 1,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Dušan Blažo",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Martin Ružarovský",
+       "nr": 9,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Lukáš Podhorský",
+       "nr": 21,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Patrik Malý",
+       "nr": 22,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Alex Turcár",
+       "nr": 20,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Filip Nádaský"
+    },
+    "subs": [
+     {
+      "min": "46",
+      "out": "Eduard Hronský",
+      "in": "Patrik Malý",
+      "side": "opp"
+     },
+     {
+      "min": "62",
+      "out": "Tomáš Keleši",
+      "in": "Dušan Blažo",
+      "side": "opp"
+     },
+     {
+      "min": "80",
+      "out": "Jakub Kosík",
+      "in": "Ondrej Čerešňa",
+      "side": "our"
+     },
+     {
+      "min": "84",
+      "out": "Martin Durec",
+      "in": "Filip Marek",
+      "side": "our"
+     },
+     {
+      "min": "89",
+      "out": "Matúš Capák",
+      "in": "Lukáš Podhorský",
+      "side": "opp"
+     },
+     {
+      "min": "90",
+      "out": "Andrej Tóth",
+      "in": "Martin Ružarovský",
+      "side": "opp"
+     },
+     {
+      "min": "90",
+      "out": "Filip Durec",
+      "in": "Adrián Hučko",
+      "side": "our"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a54c6e9d14e91f303fdf859",
+   "team": "a-muzstvo",
+   "date": "2026-08-23",
+   "time": "17:30",
+   "home": true,
+   "opponent": "TJ Sokol Borský Mikuláš",
+   "oppSpace": "tj-sokol-borsky-mikulas.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "3",
+   "played": true,
+   "score": "5:0",
+   "goals": [
+    {
+     "min": "29",
+     "player": "Mykhailo Cherepko",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "38",
+     "player": "Pavol Nálepa",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "45",
+     "player": "Filip Durec",
+     "side": "our",
+     "kind": "penalty"
+    },
+    {
+     "min": "72",
+     "player": "Filip Durec",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "84",
+     "player": "Filip Marek",
+     "side": "our",
+     "kind": "goal"
+    }
+   ],
+   "cards": [
+    {
+     "min": "56",
+     "player": "Daniel Kozánek",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "67",
+     "player": "Martin Durec",
+     "side": "our",
+     "kind": "red"
+    },
+    {
+     "min": "70",
+     "player": "Robson Morais Dias",
+     "side": "our",
+     "kind": "yellow"
+    }
+   ],
+   "venue": "Pod Solniskom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962541",
+   "half": "3:0",
+   "referee": "Eduard Kusý",
+   "audience": 250,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Ondrej Šraga",
+       "nr": 24,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Pavol Nálepa",
+       "nr": 2,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 6,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Durec",
+       "nr": 10,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Viktor Klimáček",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lucas Joaquín Garrido Gaete",
+       "nr": 17,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Robson Morais Dias",
+       "nr": 12,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marián Šimek",
+       "nr": 21,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Martin Durec",
+       "nr": 22,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Róbert Horeš",
+       "nr": 33,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Ondrej Čerešňa",
+       "nr": 5,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Miroslav Bies",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Peter Egri",
+       "nr": 37,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Adrián Hučko",
+       "nr": 89,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "David Michálek",
+       "nr": 1,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Norbert Mihál",
+       "nr": 18,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Ďurica",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Timotej Královič",
+       "nr": 19,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Andrej Rampáček",
+       "nr": 7,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mario Malina",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Erik Kujovský",
+       "nr": 3,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Daniel Kozánek",
+       "nr": 5,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Ondrej Ilčík",
+       "nr": 13,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Štefan Cvečka",
+       "nr": 2,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Černek",
+       "nr": 14,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Marek Biksadský",
+       "nr": 20,
+       "pos": "midfielder",
+       "c": true,
+       "sub": true
+      },
+      {
+       "name": "Silvester Černý",
+       "nr": 17,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Roman Kralovič",
+       "nr": 12,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Tomáš Vanek",
+       "nr": 10,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Ondriska",
+       "nr": 9,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Roman Kralovič"
+    },
+    "subs": [
+     {
+      "min": "13",
+      "out": "Norbert Mihál",
+      "in": "Marek Biksadský",
+      "side": "opp"
+     },
+     {
+      "min": "73",
+      "out": "Daniel Kozánek",
+      "in": "Silvester Černý",
+      "side": "opp"
+     },
+     {
+      "min": "76",
+      "out": "Robson Morais Dias",
+      "in": "Ondrej Čerešňa",
+      "side": "our"
+     },
+     {
+      "min": "76",
+      "out": "Timotej Královič",
+      "in": "Jakub Ondriska",
+      "side": "opp"
+     },
+     {
+      "min": "80",
+      "out": "Filip Durec",
+      "in": "Filip Marek",
+      "side": "our"
+     },
+     {
+      "min": "86",
+      "out": "Lucas Joaquín Garrido Gaete",
+      "in": "Miroslav Bies",
+      "side": "our"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a50f5dbd14e91f303dccf94",
+   "team": "u9-pripravka",
+   "date": "2026-08-28",
+   "time": "17:30",
+   "home": true,
+   "opponent": "FK Bradlan Brezová pod Bradlom",
+   "oppSpace": "fk-bradlan-brezova-pod-bradlom.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "1",
+   "played": true,
+   "score": "0:0",
+   "goals": [],
+   "cards": [],
+   "venue": "Pod Solniskom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/30/zapas/958581",
+   "half": "0:0",
+   "referee": "",
+   "audience": 25,
+   "detail": true
+  },
+  {
+   "id": "6a54c6e9d14e91f303fdfa3a",
+   "team": "a-muzstvo",
+   "date": "2026-08-30",
+   "time": "17:00",
+   "home": false,
+   "opponent": "TJ Slovan Dubovce",
+   "oppSpace": "tj-slovan-dubovce.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "4",
+   "played": true,
+   "score": "4:1",
+   "goals": [
+    {
+     "min": "18",
+     "player": "Samuel Križan",
+     "side": "opp",
+     "kind": "penalty"
+    },
+    {
+     "min": "23",
+     "player": "Samuel Križan",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "33",
+     "player": "Peter Egri",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "49",
+     "player": "František Matúš",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "57",
+     "player": "František Matúš",
+     "side": "opp",
+     "kind": "goal"
+    }
+   ],
+   "cards": [
+    {
+     "min": "19",
+     "player": "Filip Durec",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "40",
+     "player": "Lukáš Švrček",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "52",
+     "player": "David Sloboda",
+     "side": "opp",
+     "kind": "yellow"
+    }
+   ],
+   "venue": "Slovan Dubovce",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962555",
+   "half": "2:1",
+   "referee": "Juraj Puschenreiter",
+   "audience": 141,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Adrián Hučko",
+       "nr": 89,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Kosík",
+       "nr": 3,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Alex Černák",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Durec",
+       "nr": 10,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Viktor Klimáček",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Slavomír Gálik",
+       "nr": 13,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lucas Joaquín Garrido Gaete",
+       "nr": 17,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marián Šimek",
+       "nr": 21,
+       "pos": "midfielder",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Peter Egri",
+       "nr": 37,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Miroslav Bies",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Ondrej Šraga",
+       "nr": 4,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Robson Morais Dias",
+       "nr": 5,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "Timotej Pekar",
+       "nr": 1,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lukáš Švrček",
+       "nr": 21,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marek Valúch",
+       "nr": 4,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Tomáš Milota",
+       "nr": 13,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Urbánek",
+       "nr": 14,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Samuel Milota",
+       "nr": 19,
+       "pos": "midfielder",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Richard Titus Balážik",
+       "nr": 15,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Peter Ľubomír Balážik",
+       "nr": 18,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "David Sloboda",
+       "nr": 20,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Samuel Križan",
+       "nr": 11,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "František Matúš",
+       "nr": 3,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Dan Huszár",
+       "nr": 96,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Daniel Regásek",
+       "nr": 9,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Ondrej Rybnikár",
+       "nr": 5,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Dávid Kudláč",
+       "nr": 17,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Marián Švrček",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "René Mišík",
+       "nr": 6,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Tomáš Sprušanský"
+    },
+    "subs": [
+     {
+      "min": "58",
+      "out": "František Matúš",
+      "in": "Daniel Regásek",
+      "side": "opp"
+     },
+     {
+      "min": "58",
+      "out": "David Sloboda",
+      "in": "Ondrej Rybnikár",
+      "side": "opp"
+     },
+     {
+      "min": "64",
+      "out": "Alex Černák",
+      "in": "Robson Morais Dias",
+      "side": "our"
+     },
+     {
+      "min": "73",
+      "out": "Samuel Križan",
+      "in": "Marián Švrček",
+      "side": "opp"
+     },
+     {
+      "min": "78",
+      "out": "Richard Titus Balážik",
+      "in": "René Mišík",
+      "side": "opp"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a50f5dbd14e91f303dccfa3",
+   "team": "u9-pripravka",
+   "date": "2026-09-04",
+   "time": "16:30",
+   "home": false,
+   "opponent": "OŠK Bošáca",
+   "oppSpace": "osk-bosaca.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "2",
+   "played": true,
+   "score": "0:0",
+   "goals": [],
+   "cards": [],
+   "venue": "OŠK Bošáca",
+   "url": "https://sportnet.sme.sk/futbalnet/z/30/zapas/958585",
+   "half": "0:0",
+   "referee": "",
+   "audience": 50,
+   "detail": true
+  },
+  {
+   "id": "6a54c6edd14e91f303fe0c76",
+   "team": "a-muzstvo",
+   "date": "2026-09-06",
+   "time": "16:00",
+   "home": true,
+   "opponent": "TJ Baník Brodské",
+   "oppSpace": "tj-banik-brodske.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "5",
+   "played": true,
+   "score": "1:1",
+   "goals": [
+    {
+     "min": "58",
+     "player": "Filip Durec",
+     "side": "our",
+     "kind": "penalty"
+    },
+    {
+     "min": "80",
+     "player": "Vilmos Soós",
+     "side": "opp",
+     "kind": "goal"
+    }
+   ],
+   "cards": [
+    {
+     "min": "88",
+     "player": "Arthur Paulo De Oliveira",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "89",
+     "player": "Vilmos Soós",
+     "side": "opp",
+     "kind": "yellow"
+    }
+   ],
+   "venue": "Pod Solniskom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962556",
+   "half": "0:0",
+   "referee": "Peter Baláž",
+   "audience": 125,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Adrián Hučko",
+       "nr": 89,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Pavol Nálepa",
+       "nr": 2,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Kosík",
+       "nr": 3,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Durec",
+       "nr": 10,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Viktor Klimáček",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lucas Joaquín Garrido Gaete",
+       "nr": 17,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Róbert Horeš",
+       "nr": 33,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Peter Egri",
+       "nr": 37,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Miroslav Bies",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Marián Šimek",
+       "nr": 21,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Košarík",
+       "nr": 5,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Ondrej Šraga",
+       "nr": 4,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Marek Vrábel",
+       "nr": 13,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "Jaider Daniel Palomeque Roa",
+       "nr": 18,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Tobiáš Ralbovský",
+       "nr": 2,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Barniak",
+       "nr": 11,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Cristian Camilo Mena Mosquera",
+       "nr": 15,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Peter Šalkovič",
+       "nr": 4,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Vilmos Soós",
+       "nr": 3,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Sebastian Pavlovič",
+       "nr": 7,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Martin Bartal",
+       "nr": 10,
+       "pos": "midfielder",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Brayan Andres Muñoz Santa",
+       "nr": 14,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Juan Pablo Cardona Yepes",
+       "nr": 5,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Vladimír Krňa",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Gabriel Trubiroha",
+       "nr": 9,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Filip Blaha",
+       "nr": 6,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Boris Vach",
+       "nr": 12,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Martin Bartal"
+    },
+    "subs": [
+     {
+      "min": "46",
+      "out": "Filip Marek",
+      "in": "Marián Šimek",
+      "side": "our"
+     },
+     {
+      "min": "59",
+      "out": "Vladimír Krňa",
+      "in": "Filip Blaha",
+      "side": "opp"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a50f5dbd14e91f303dcd010",
+   "team": "u9-pripravka",
+   "date": "2026-09-11",
+   "time": "16:30",
+   "home": true,
+   "opponent": "OŠK Slovan Beckov",
+   "oppSpace": "osk-slovan-beckov.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "3",
+   "played": true,
+   "score": "0:0",
+   "goals": [],
+   "cards": [],
+   "venue": "Pod Solniskom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/30/zapas/958588",
+   "half": "0:0",
+   "referee": "",
+   "audience": 15,
+   "detail": true
+  },
+  {
+   "id": "6a54c6ead14e91f303fdfbfd",
+   "team": "a-muzstvo",
+   "date": "2026-09-13",
+   "time": "16:00",
+   "home": true,
+   "opponent": "TJ Tatran Jablonica",
+   "oppSpace": "tj-tatran-jablonica.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "6",
+   "played": true,
+   "score": "1:0",
+   "goals": [
+    {
+     "min": "66",
+     "player": "Róbert Horeš",
+     "side": "our",
+     "kind": "goal"
+    }
+   ],
+   "cards": [
+    {
+     "min": "31",
+     "player": "Alex Černák",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "45",
+     "player": "Filip Durec",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "55",
+     "player": "Róbert Horeš",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "90",
+     "player": "Dominik Štora",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "92",
+     "player": "Patrik Pitorák",
+     "side": "opp",
+     "kind": "yellow"
+    }
+   ],
+   "venue": "Pod Solniskom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962571",
+   "half": "0:0",
+   "referee": "David Lukáč",
+   "audience": 265,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Ondrej Šraga",
+       "nr": 24,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Kosík",
+       "nr": 3,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Alex Černák",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Durec",
+       "nr": 10,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Viktor Klimáček",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lucas Joaquín Garrido Gaete",
+       "nr": 17,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marián Šimek",
+       "nr": 21,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Róbert Horeš",
+       "nr": 33,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Peter Egri",
+       "nr": 37,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Miroslav Bies",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Košarík",
+       "nr": 5,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Marek Vrábel",
+       "nr": 13,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "Peter Ravas",
+       "nr": 44,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Dominik Štora",
+       "nr": 23,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Patrik Pitorák",
+       "nr": 37,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Štefanka",
+       "nr": 66,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lukáš Pátek",
+       "nr": 27,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Gregor Masár",
+       "nr": 17,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Dominik Fukna",
+       "nr": 25,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Vladimír Jánošík",
+       "nr": 7,
+       "pos": "midfielder",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Alexander Konečný",
+       "nr": 16,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Patrik Januška",
+       "nr": 12,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Dominik Slovík",
+       "nr": 77,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Marek Jurovatý",
+       "nr": 10,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Michal Németh",
+       "nr": 21,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Marek Kubisa",
+       "nr": 2,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Sládek",
+       "nr": 1,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Jakub Štefanka"
+    },
+    "subs": [
+     {
+      "min": "8",
+      "out": "Peter Egri",
+      "in": "Filip Marek",
+      "side": "our"
+     },
+     {
+      "min": "75",
+      "out": "Patrik Januška",
+      "in": "Marek Jurovatý",
+      "side": "opp"
+     },
+     {
+      "min": "91",
+      "out": "Filip Marek",
+      "in": "Miroslav Bies",
+      "side": "our"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a50f5dbd14e91f303dcd036",
+   "team": "u9-pripravka",
+   "date": "2026-09-19",
+   "time": "10:30",
+   "home": false,
+   "opponent": "ŠK Dolné Srnie",
+   "oppSpace": "sk-dolne-srnie.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "4",
+   "played": true,
+   "score": "0:0",
+   "goals": [],
+   "cards": [],
+   "venue": "Ihrisko č.1",
+   "url": "https://sportnet.sme.sk/futbalnet/z/30/zapas/958594",
+   "half": "0:0",
+   "referee": "",
+   "audience": 38,
+   "detail": true
+  },
+  {
+   "id": "6a54c6ead14e91f303fdfc23",
+   "team": "a-muzstvo",
+   "date": "2026-09-20",
+   "time": "15:30",
+   "home": false,
+   "opponent": "Telovýchovná jednota Kopčany",
+   "oppSpace": "tj-kopcany.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "7",
+   "played": true,
+   "score": "5:0",
+   "goals": [
+    {
+     "min": "17",
+     "player": "Patrik Božek",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "42",
+     "player": "Tomáš Hlaváč",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "69",
+     "player": "Martin Kocák",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "75",
+     "player": "Patrik Božek",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "79",
+     "player": "Patrik Božek",
+     "side": "opp",
+     "kind": "penalty"
+    }
+   ],
+   "cards": [
+    {
+     "min": "75",
+     "player": "Alex Černák",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "78",
+     "player": "Adrián Hučko",
+     "side": "our",
+     "kind": "yellow"
+    }
+   ],
+   "venue": "TJ Kopčany",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962573",
+   "half": "2:0",
+   "referee": "Peter Baláž",
+   "audience": 169,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Adrián Hučko",
+       "nr": 89,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Kosík",
+       "nr": 3,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Alex Černák",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Durec",
+       "nr": 10,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lucas Joaquín Garrido Gaete",
+       "nr": 17,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marián Šimek",
+       "nr": 21,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Róbert Horeš",
+       "nr": 33,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Patrik Kubica",
+       "nr": 12,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Martin Durec",
+       "nr": 22,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Miroslav Bies",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Pavol Nálepa",
+       "nr": 2,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "Kristián Biskupič",
+       "nr": 1,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Patrik Božek",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Timotej Kollár",
+       "nr": 10,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Martin Ivan",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Blažek",
+       "nr": 8,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Tomáš Hlaváč",
+       "nr": 14,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Kristián Knotek",
+       "nr": 5,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Dominik Hýroš",
+       "nr": 13,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Radko Valúch",
+       "nr": 20,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Sebastián Dinka",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Ivánek",
+       "nr": 4,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Lukáš Janík",
+       "nr": 12,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Martin Vašíček",
+       "nr": 16,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Marek Švadlenka",
+       "nr": 2,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Martin Vach",
+       "nr": 11,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Martin Kocák",
+       "nr": 3,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Michal Pribyla",
+       "nr": 19,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Dávid Kozány",
+       "nr": 17,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Michal Baláž",
+       "nr": 18,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Peter Smolinský",
+       "nr": 21,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Vladimír Váňa"
+    },
+    "subs": [
+     {
+      "min": "46",
+      "out": "Filip Durec",
+      "in": "Filip Marek",
+      "side": "our"
+     },
+     {
+      "min": "57",
+      "out": "Sebastián Dinka",
+      "in": "Martin Vašíček",
+      "side": "opp"
+     },
+     {
+      "min": "57",
+      "out": "Tomáš Hlaváč",
+      "in": "Martin Kocák",
+      "side": "opp"
+     },
+     {
+      "min": "57",
+      "out": "Radko Valúch",
+      "in": "Michal Baláž",
+      "side": "opp"
+     },
+     {
+      "min": "75",
+      "out": "Timotej Kollár",
+      "in": "Marek Švadlenka",
+      "side": "opp"
+     },
+     {
+      "min": "79",
+      "out": "Kristián Biskupič",
+      "in": "Peter Smolinský",
+      "side": "opp"
+     },
+     {
+      "min": "80",
+      "out": "Lucas Joaquín Garrido Gaete",
+      "in": "Miroslav Bies",
+      "side": "our"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a50f5dbd14e91f303dcd10a",
+   "team": "u9-pripravka",
+   "date": "2026-09-25",
+   "time": "16:00",
+   "home": true,
+   "opponent": "MFK Stará Turá",
+   "oppSpace": "mfk-stara-tura.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "5",
+   "played": true,
+   "score": "0:0",
+   "goals": [],
+   "cards": [],
+   "venue": "Pod Solniskom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/30/zapas/958595",
+   "half": "0:0",
+   "referee": "",
+   "audience": 14,
+   "detail": true
+  },
+  {
+   "id": "6a54c6e9d14e91f303fdfaac",
+   "team": "a-muzstvo",
+   "date": "2026-09-27",
+   "time": "15:00",
+   "home": true,
+   "opponent": "",
+   "oppSpace": "",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "8",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a50f5dcd14e91f303dcd20f",
+   "team": "u9-pripravka",
+   "date": "2026-10-02",
+   "time": "15:30",
+   "home": true,
+   "opponent": "TJ Spartak Horná Streda",
+   "oppSpace": "tj-spartak-horna-streda.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "6",
+   "played": true,
+   "score": "0:0",
+   "goals": [],
+   "cards": [],
+   "venue": "Pod Solniskom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/30/zapas/958602",
+   "half": "0:0",
+   "referee": "",
+   "audience": 15,
+   "detail": true
+  },
+  {
+   "id": "6a54c6f1d14e91f303fe1778",
+   "team": "a-muzstvo",
+   "date": "2026-10-04",
+   "time": "15:00",
+   "home": false,
+   "opponent": "TJ Slavoj Moravský Svätý Ján",
+   "oppSpace": "tj-slavoj-moravsky-svaty-jan.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "9",
+   "played": true,
+   "score": "2:3",
+   "goals": [
+    {
+     "min": "20",
+     "player": "Lucas Joaquín Garrido Gaete",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "40",
+     "player": "Dominik Bolf",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "56",
+     "player": "Lucas Joaquín Garrido Gaete",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "73",
+     "player": "Kevin Bolf",
+     "side": "opp",
+     "kind": "penalty"
+    },
+    {
+     "min": "76",
+     "player": "Lucas Joaquín Garrido Gaete",
+     "side": "our",
+     "kind": "goal"
+    }
+   ],
+   "cards": [
+    {
+     "min": "81",
+     "player": "Adam Šimonovič",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "85",
+     "player": "Marek Benkovič",
+     "side": "opp",
+     "kind": "yellow"
+    }
+   ],
+   "venue": "Štadión TJ Slavoj",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962590",
+   "half": "1:1",
+   "referee": "Pavol Marko",
+   "audience": 120,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Ondrej Šraga",
+       "nr": 24,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Alex Černák",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Durec",
+       "nr": 10,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lucas Joaquín Garrido Gaete",
+       "nr": 17,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marián Šimek",
+       "nr": 21,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Róbert Horeš",
+       "nr": 33,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Peter Egri",
+       "nr": 37,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Martin Durec",
+       "nr": 22,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Slavomír Gálik",
+       "nr": 13,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Adrián Hučko",
+       "nr": 4,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Miroslav Bies",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "Dárius Bolf",
+       "nr": 1,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Ondrej Horný",
+       "nr": 2,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Adam Šimonovič",
+       "nr": 4,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Róbert Janiss",
+       "nr": 12,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Erik Zajíc",
+       "nr": 8,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marek Benkovič",
+       "nr": 6,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Martin Čižmár",
+       "nr": 10,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Dominik Bolf",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Chvál",
+       "nr": 7,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Damián Vanek",
+       "nr": 19,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Kevin Bolf",
+       "nr": 17,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Peter Machlica",
+       "nr": 21,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Milan Baláž",
+       "nr": 22,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Milan Krivák",
+       "nr": 16,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Frederik Športek",
+       "nr": 9,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Youness El Bouhati",
+       "nr": 14,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Jozef Kovaľ"
+    },
+    "subs": [
+     {
+      "min": "52",
+      "out": "Erik Zajíc",
+      "in": "Milan Baláž",
+      "side": "opp"
+     },
+     {
+      "min": "70",
+      "out": "Martin Durec",
+      "in": "Miroslav Bies",
+      "side": "our"
+     },
+     {
+      "min": "80",
+      "out": "Martin Čižmár",
+      "in": "Peter Machlica",
+      "side": "opp"
+     },
+     {
+      "min": "80",
+      "out": "Dominik Bolf",
+      "in": "Youness El Bouhati",
+      "side": "opp"
+     },
+     {
+      "min": "84",
+      "out": "Lucas Joaquín Garrido Gaete",
+      "in": "Filip Marek",
+      "side": "our"
+     },
+     {
+      "min": "90",
+      "out": "Miroslav Bies",
+      "in": "Adrián Hučko",
+      "side": "our"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a50f5dcd14e91f303dcd1ce",
+   "team": "u9-pripravka",
+   "date": "2026-10-09",
+   "time": "15:30",
+   "home": false,
+   "opponent": "OŠK Hôrka nad Váhom",
+   "oppSpace": "osk-horka-nad-vahom.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "7",
+   "played": true,
+   "score": "0:0",
+   "goals": [],
+   "cards": [],
+   "venue": "Futbalový štadión OŠK Hôrka nad Váhom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/30/zapas/958604",
+   "half": "0:0",
+   "referee": "",
+   "audience": 30,
+   "detail": true
+  },
+  {
+   "id": "6a54c6ead14e91f303fdfc8e",
+   "team": "a-muzstvo",
+   "date": "2026-10-11",
+   "time": "15:00",
+   "home": true,
+   "opponent": "TJ Iskra Holíč",
+   "oppSpace": "tj-iskra-holic.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "10",
+   "played": true,
+   "score": "1:1",
+   "goals": [
+    {
+     "min": "12",
+     "player": "Filip Durec",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "54",
+     "player": "Mário Mráz",
+     "side": "opp",
+     "kind": "goal"
+    }
+   ],
+   "cards": [
+    {
+     "min": "41",
+     "player": "Alex Černák",
+     "side": "our",
+     "kind": "red"
+    },
+    {
+     "min": "66",
+     "player": "Peter Patrik Flašík",
+     "side": "opp",
+     "kind": "yellow"
+    }
+   ],
+   "venue": "Pod Solniskom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962601",
+   "half": "1:0",
+   "referee": "Roman Kovačik",
+   "audience": 150,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Adrián Hučko",
+       "nr": 89,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Pavol Nálepa",
+       "nr": 2,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Kosík",
+       "nr": 3,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Alex Černák",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Durec",
+       "nr": 10,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lucas Joaquín Garrido Gaete",
+       "nr": 17,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marián Šimek",
+       "nr": 21,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Róbert Horeš",
+       "nr": 33,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Martin Durec",
+       "nr": 22,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Miroslav Bies",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Ondrej Šraga",
+       "nr": 4,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Marek Vrábel",
+       "nr": 12,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Viktor Klimáček",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "Martin Vaculka",
+       "nr": 21,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Stanislav DERMEK",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Vadym Kostruba",
+       "nr": 3,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Yehor Moskalenko",
+       "nr": 77,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marek Duffek",
+       "nr": 4,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Erik Vinger",
+       "nr": 2,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Peter Patrik Flašík",
+       "nr": 7,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Timotej Tolla",
+       "nr": 18,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Patrik Studenič",
+       "nr": 19,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Mário Mráz",
+       "nr": 14,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Nikolas Stachovič",
+       "nr": 17,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Pavol Balážik",
+       "nr": 13,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Adam Miholek",
+       "nr": 20,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Dávid Mráz",
+       "nr": 9,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Králiček",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Adam Horniak",
+       "nr": 5,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Ondrej Ružička",
+       "nr": 6,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Ivo Javorský",
+       "nr": 1,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Ján Tolla"
+    },
+    "subs": [
+     {
+      "min": "68",
+      "out": "Martin Durec",
+      "in": "Filip Marek",
+      "side": "our"
+     },
+     {
+      "min": "71",
+      "out": "Peter Patrik Flašík",
+      "in": "Ondrej Ružička",
+      "side": "opp"
+     },
+     {
+      "min": "71",
+      "out": "Nikolas Stachovič",
+      "in": "Dávid Mráz",
+      "side": "opp"
+     },
+     {
+      "min": "84",
+      "out": "Mário Mráz",
+      "in": "Adam Horniak",
+      "side": "opp"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a50f5dbd14e91f303dcd105",
+   "team": "u9-pripravka",
+   "date": "2026-10-16",
+   "time": "14:30",
+   "home": false,
+   "opponent": "FK Bradlan Brezová pod Bradlom",
+   "oppSpace": "fk-bradlan-brezova-pod-bradlom.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "8",
+   "played": true,
+   "score": "0:0",
+   "goals": [],
+   "cards": [],
+   "venue": "Štadión ŠVS Bradlan Brezová pod Bradlom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/30/zapas/958609",
+   "half": "0:0",
+   "referee": "",
+   "audience": 40,
+   "detail": true
+  },
+  {
+   "id": "6a54c6ead14e91f303fdfe8a",
+   "team": "a-muzstvo",
+   "date": "2026-10-18",
+   "time": "14:00",
+   "home": false,
+   "opponent": "TJ Slovan Šaštín - Stráže",
+   "oppSpace": "tj-slovan-sastin-straze.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "11",
+   "played": true,
+   "score": "1:4",
+   "goals": [
+    {
+     "min": "30",
+     "player": "Filip Durec",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "52",
+     "player": "Lukáš Suchánek",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "61",
+     "player": "Lucas Joaquín Garrido Gaete",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "71",
+     "player": "Jakub Kosík",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "90",
+     "player": "Filip Durec",
+     "side": "our",
+     "kind": "goal"
+    }
+   ],
+   "cards": [
+    {
+     "min": "26",
+     "player": "Filip Marek",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "36",
+     "player": "Mykhailo Cherepko",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "39",
+     "player": "Fabian Pavelka",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "41",
+     "player": "Denis Šimek",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "53",
+     "player": "Peter Egri",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "62",
+     "player": "Jakub Rudolf Šedivý",
+     "side": "opp",
+     "kind": "yellow"
+    }
+   ],
+   "venue": "TJ Slovan Šaštín",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962607",
+   "half": "0:1",
+   "referee": "Samuel Žilka",
+   "audience": 120,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Ondrej Šraga",
+       "nr": 24,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Kosík",
+       "nr": 3,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Durec",
+       "nr": 10,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lucas Joaquín Garrido Gaete",
+       "nr": 17,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Róbert Horeš",
+       "nr": 33,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Martin Durec",
+       "nr": 22,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Viktor Klimáček",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Peter Egri",
+       "nr": 37,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Miroslav Bies",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Adrián Hučko",
+       "nr": 4,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Košarík",
+       "nr": 5,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "Ondrej Klempa",
+       "nr": 31,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Rudolf Šedivý",
+       "nr": 11,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Fabian Pavelka",
+       "nr": 8,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Roman Šághy",
+       "nr": 17,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Simon Mach",
+       "nr": 19,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Adam Šedivý",
+       "nr": 10,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lukáš Suchánek",
+       "nr": 7,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "David Martin Lorinčík",
+       "nr": 9,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Denis Šimek",
+       "nr": 14,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Pollák",
+       "nr": 20,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Bronislav Šálek",
+       "nr": 18,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Juraj Mošať",
+       "nr": 6,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Samuel Provazník",
+       "nr": 15,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Lukáš Dobša",
+       "nr": 27,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Malík",
+       "nr": 4,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Adam Skokánek",
+       "nr": 12,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Martin Stojka",
+       "nr": 5,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Gabriel Daniel",
+       "nr": 39,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Marek Kečkeš",
+       "nr": 2,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Bronislav Šálek"
+    },
+    "subs": [
+     {
+      "min": "46",
+      "out": "Denis Šimek",
+      "in": "Lukáš Dobša",
+      "side": "opp"
+     },
+     {
+      "min": "72",
+      "out": "David Martin Lorinčík",
+      "in": "Juraj Mošať",
+      "side": "opp"
+     },
+     {
+      "min": "78",
+      "out": "Jakub Pollák",
+      "in": "Samuel Provazník",
+      "side": "opp"
+     },
+     {
+      "min": "85",
+      "out": "Martin Durec",
+      "in": "Miroslav Bies",
+      "side": "our"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a50f5dcd14e91f303dcd355",
+   "team": "u9-pripravka",
+   "date": "2026-10-23",
+   "time": "14:30",
+   "home": true,
+   "opponent": "OŠK Bošáca",
+   "oppSpace": "osk-bosaca.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "9",
+   "played": true,
+   "score": "0:0",
+   "goals": [],
+   "cards": [],
+   "venue": "Pod Solniskom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/30/zapas/958613",
+   "half": "0:0",
+   "referee": "",
+   "audience": 20,
+   "detail": true
+  },
+  {
+   "id": "6a54c6ead14e91f303fdfc0c",
+   "team": "a-muzstvo",
+   "date": "2026-10-25",
+   "time": "14:00",
+   "home": true,
+   "opponent": "TJ Slovan Rovnosť Krajné",
+   "oppSpace": "tj-slovan-rovnost-krajne.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "12",
+   "played": true,
+   "score": "2:2",
+   "goals": [
+    {
+     "min": "7",
+     "player": "Alex Černák",
+     "side": "our",
+     "kind": "own"
+    },
+    {
+     "min": "22",
+     "player": "Patrik Allina",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "25",
+     "player": "Róbert Horeš",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "43",
+     "player": "Filip Durec",
+     "side": "our",
+     "kind": "goal"
+    }
+   ],
+   "cards": [
+    {
+     "min": "5",
+     "player": "Tomáš Režnák",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "14",
+     "player": "Pavol Nálepa",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "42",
+     "player": "Matúš Puškár",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "54",
+     "player": "Alex Černák",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "60",
+     "player": "Dominik Medveď",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "70",
+     "player": "Filip Marek",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "73",
+     "player": "Filip Durec",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "81",
+     "player": "Juraj Kováč",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "86",
+     "player": "Lukáš Kodaj",
+     "side": "opp",
+     "kind": "yellow"
+    }
+   ],
+   "venue": "Pod Solniskom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962616",
+   "half": "2:2",
+   "referee": "Branislav Mihálik",
+   "audience": 153,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Ondrej Šraga",
+       "nr": 24,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Pavol Nálepa",
+       "nr": 2,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Kosík",
+       "nr": 3,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Alex Černák",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Durec",
+       "nr": 10,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Viktor Klimáček",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lucas Joaquín Garrido Gaete",
+       "nr": 17,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Róbert Horeš",
+       "nr": 33,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Martin Durec",
+       "nr": 22,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Marián Šimek",
+       "nr": 21,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Miroslav Bies",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Košarík",
+       "nr": 5,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Marek Vrábel",
+       "nr": 37,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Adrián Hučko",
+       "nr": 89,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "Jakub Šicko",
+       "nr": 22,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marek Miča",
+       "nr": 21,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Juraj Kováč",
+       "nr": 4,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Dominik Medveď",
+       "nr": 20,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Lukáš Kodaj",
+       "nr": 17,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Matúš Puškár",
+       "nr": 15,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Miroslav Fako",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Šimon Batka",
+       "nr": 7,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Tomáš Režnák",
+       "nr": 14,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Patrik Allina",
+       "nr": 16,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Tomáš Horniaček",
+       "nr": 3,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Michal Samul",
+       "nr": 1,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Žabka",
+       "nr": 13,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Patrik Moravec",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Juraj Plaskoň",
+       "nr": 18,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Samuel Vavák",
+       "nr": 10,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Matej Batka",
+       "nr": 19,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Samuel Kňazský",
+       "nr": 11,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Galbavý",
+       "nr": 2,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Patrik Mareček",
+       "nr": 12,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Lukáš Kodaj"
+    },
+    "subs": [
+     {
+      "min": "46",
+      "out": "Tomáš Režnák",
+      "in": "Juraj Plaskoň",
+      "side": "opp"
+     },
+     {
+      "min": "66",
+      "out": "Lucas Joaquín Garrido Gaete",
+      "in": "Filip Marek",
+      "side": "our"
+     },
+     {
+      "min": "78",
+      "out": "Miroslav Fako",
+      "in": "Jakub Žabka",
+      "side": "opp"
+     },
+     {
+      "min": "78",
+      "out": "Patrik Allina",
+      "in": "Samuel Kňazský",
+      "side": "opp"
+     },
+     {
+      "min": "90",
+      "out": "Matúš Puškár",
+      "in": "Samuel Vavák",
+      "side": "opp"
+     },
+     {
+      "min": "90",
+      "out": "Tomáš Horniaček",
+      "in": "Matej Batka",
+      "side": "opp"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a54c6f2d14e91f303fe18f8",
+   "team": "a-muzstvo",
+   "date": "2026-11-01",
+   "time": "14:00",
+   "home": false,
+   "opponent": "TJ SPARTAK ŠAŠTÍN-STRÁŽE",
+   "oppSpace": "tj-spartak-sastin-straze.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "13",
+   "played": true,
+   "score": "5:3",
+   "goals": [
+    {
+     "min": "26",
+     "player": "Peter Egri",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "31",
+     "player": "Róbert Slovák",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "36",
+     "player": "Jakub Tomašovič",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "48",
+     "player": "Filip Durec",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "55",
+     "player": "Viktor Buzay",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "60",
+     "player": "Peter Kurc",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "86",
+     "player": "Viktor Klimáček",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "89",
+     "player": "Jakub Tomašovič",
+     "side": "opp",
+     "kind": "goal"
+    }
+   ],
+   "cards": [
+    {
+     "min": "38",
+     "player": "David Strapko",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "40",
+     "player": "Peter Egri",
+     "side": "our",
+     "kind": "yellow"
+    },
+    {
+     "min": "50",
+     "player": "Tomáš Kratochvíl",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "73",
+     "player": "Samuel Dóža",
+     "side": "opp",
+     "kind": "yellow"
+    },
+    {
+     "min": "81",
+     "player": "Martin Durec",
+     "side": "our",
+     "kind": "yellow"
+    }
+   ],
+   "venue": "Spartak Stráže",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962624",
+   "half": "2:1",
+   "referee": "Peter Jordanov",
+   "audience": 150,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Ondrej Šraga",
+       "nr": 24,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Kosík",
+       "nr": 3,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Alex Černák",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Durec",
+       "nr": 10,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Viktor Klimáček",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Róbert Horeš",
+       "nr": 33,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Peter Egri",
+       "nr": 37,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Martin Durec",
+       "nr": 22,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Marián Šimek",
+       "nr": 21,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Miroslav Bies",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Košarík",
+       "nr": 5,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Adrián Hučko",
+       "nr": 4,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "Peter Hladký",
+       "nr": 39,
+       "pos": "goalkeeper",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Miroslav Mihok",
+       "nr": 15,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Tobiáš",
+       "nr": 12,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Viktor Buzay",
+       "nr": 2,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Tomáš Kratochvíl",
+       "nr": 4,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Samuel Dóža",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Peter Kurc",
+       "nr": 14,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "David Strapko",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Róbert Slovák",
+       "nr": 9,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Tomašovič",
+       "nr": 16,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "František Pollák",
+       "nr": 7,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Martin Michalica",
+       "nr": 10,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Lukáš Polák",
+       "nr": 17,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Lukáš Letko",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Martin Daniel",
+       "nr": 1,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Erik Brunner",
+       "nr": 13,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Juraj Valachovič",
+       "nr": 19,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Erik Pollák",
+       "nr": 18,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Vladimír Mihalík"
+    },
+    "subs": [
+     {
+      "min": "38",
+      "out": "Filip Marek",
+      "in": "Miroslav Bies",
+      "side": "our"
+     },
+     {
+      "min": "62",
+      "out": "Peter Kurc",
+      "in": "Lukáš Polák",
+      "side": "opp"
+     },
+     {
+      "min": "68",
+      "out": "Peter Egri",
+      "in": "Jakub Košarík",
+      "side": "our"
+     },
+     {
+      "min": "86",
+      "out": "Róbert Slovák",
+      "in": "Lukáš Letko",
+      "side": "opp"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a54c6ead14e91f303fdfe78",
+   "team": "a-muzstvo",
+   "date": "2026-11-08",
+   "time": "13:30",
+   "home": true,
+   "opponent": "ŠFK Štefanov",
+   "oppSpace": "sfk-stefanov.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "14",
+   "played": true,
+   "score": "2:0",
+   "goals": [
+    {
+     "min": "32",
+     "player": "Martin Durec",
+     "side": "our",
+     "kind": "goal"
+    },
+    {
+     "min": "43",
+     "player": "Filip Durec",
+     "side": "our",
+     "kind": "goal"
+    }
+   ],
+   "cards": [
+    {
+     "min": "80",
+     "player": "Lukáš Šurek",
+     "side": "opp",
+     "kind": "yellow"
+    }
+   ],
+   "venue": "Pod Solniskom",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962631",
+   "half": "2:0",
+   "referee": "Jozef Opatovský",
+   "audience": 125,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Adrián Hučko",
+       "nr": 89,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Pavol Nálepa",
+       "nr": 2,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Kosík",
+       "nr": 3,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Alex Černák",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Durec",
+       "nr": 10,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Viktor Klimáček",
+       "nr": 11,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Róbert Horeš",
+       "nr": 33,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Martin Durec",
+       "nr": 22,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Ondrej Čerešňa",
+       "nr": 5,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Miroslav Bies",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Košarík",
+       "nr": 4,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Bojan Stajković",
+       "nr": 21,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Ondrej Šraga",
+       "nr": 24,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "Lukáš ČELÚSTKA",
+       "nr": 30,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Samuel Kos",
+       "nr": 77,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Patrik Tomašovič",
+       "nr": 9,
+       "pos": "forward",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Lukáš Šurek",
+       "nr": 14,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Denis Lukáč",
+       "nr": 7,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Stanislav Daniel",
+       "nr": 18,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marek Včelka",
+       "nr": 10,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Martin Macánek",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marcel Rampáček",
+       "nr": 11,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Patrik Polák",
+       "nr": 4,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Denis Romer",
+       "nr": 17,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Richard Cvečka",
+       "nr": 3,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Miroslav Malík",
+       "nr": 1,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Čelústka",
+       "nr": 2,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Lukáš Bajan"
+    },
+    "subs": [
+     {
+      "min": "75",
+      "out": "Ondrej Čerešňa",
+      "in": "Miroslav Bies",
+      "side": "our"
+     },
+     {
+      "min": "79",
+      "out": "Denis Lukáč",
+      "in": "Jakub Čelústka",
+      "side": "opp"
+     },
+     {
+      "min": "85",
+      "out": "Martin Durec",
+      "in": "Bojan Stajković",
+      "side": "our"
+     },
+     {
+      "min": "89",
+      "out": "Filip Durec",
+      "in": "Jakub Košarík",
+      "side": "our"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a54c6ead14e91f303fdfbff",
+   "team": "a-muzstvo",
+   "date": "2026-11-15",
+   "time": "13:30",
+   "home": false,
+   "opponent": "FK Oreské",
+   "oppSpace": "fk-oreske.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "15",
+   "played": true,
+   "score": "4:0",
+   "goals": [
+    {
+     "min": "38",
+     "player": "Ondrej Kralovič",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "43",
+     "player": "Pavol Hlavička",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "78",
+     "player": "Adam Hrbatý",
+     "side": "opp",
+     "kind": "goal"
+    },
+    {
+     "min": "90",
+     "player": "Dominik Baláž",
+     "side": "opp",
+     "kind": "goal"
+    }
+   ],
+   "cards": [
+    {
+     "min": "71",
+     "player": "Filip Marek",
+     "side": "our",
+     "kind": "red"
+    }
+   ],
+   "venue": "FK Oreské",
+   "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/962641",
+   "half": "2:0",
+   "referee": "Jaroslav Boledovič",
+   "audience": 80,
+   "lineups": {
+    "our": {
+     "start": [
+      {
+       "name": "Adrián Hučko",
+       "nr": 89,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Pavol Nálepa",
+       "nr": 2,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Jakub Kosík",
+       "nr": 3,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Alex Černák",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Mykhailo Cherepko",
+       "nr": 8,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Arthur Paulo De Oliveira",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Filip Durec",
+       "nr": 10,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Marián Šimek",
+       "nr": 21,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Martin Durec",
+       "nr": 22,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Miroslav Bies",
+       "nr": 31,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Róbert Horeš",
+       "nr": 33,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Ondrej Čerešňa",
+       "nr": 5,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Filip Marek",
+       "nr": 7,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Jakub Košarík",
+       "nr": 4,
+       "pos": "forward",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Ondrej Šraga",
+       "nr": 24,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Dalibor Dubovský"
+    },
+    "opp": {
+     "start": [
+      {
+       "name": "Peter Štefka",
+       "nr": 18,
+       "pos": "goalkeeper",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Ondrej Kralovič",
+       "nr": 4,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Martin Tokoš",
+       "nr": 5,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Tomáš Mikuš",
+       "nr": 6,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Dominik Baláž",
+       "nr": 7,
+       "pos": "defender",
+       "c": true,
+       "sub": false
+      },
+      {
+       "name": "Adam Hrbatý",
+       "nr": 8,
+       "pos": "forward",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Samuel Matúš",
+       "nr": 10,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Lukáš Podrazil",
+       "nr": 13,
+       "pos": "defender",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Viliam Nemec",
+       "nr": 14,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Timotej Mikúš",
+       "nr": 15,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      },
+      {
+       "name": "Pavol Hlavička",
+       "nr": 16,
+       "pos": "midfielder",
+       "c": false,
+       "sub": false
+      }
+     ],
+     "subs": [
+      {
+       "name": "Denis Boťánek",
+       "nr": 9,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Martin Pípa",
+       "nr": 11,
+       "pos": "defender",
+       "c": false,
+       "sub": true
+      },
+      {
+       "name": "Timotej Rajčák",
+       "nr": 17,
+       "pos": "midfielder",
+       "c": false,
+       "sub": true
+      }
+     ],
+     "coach": "Lukáš Mikuš"
+    },
+    "subs": [
+     {
+      "min": "46",
+      "out": "Martin Tokoš",
+      "in": "Martin Pípa",
+      "side": "opp"
+     },
+     {
+      "min": "46",
+      "out": "Miroslav Bies",
+      "in": "Filip Marek",
+      "side": "our"
+     },
+     {
+      "min": "61",
+      "out": "Timotej Mikúš",
+      "in": "Timotej Rajčák",
+      "side": "opp"
+     },
+     {
+      "min": "70",
+      "out": "Filip Durec",
+      "in": "Jakub Košarík",
+      "side": "our"
+     },
+     {
+      "min": "75",
+      "out": "Pavol Hlavička",
+      "in": "Denis Boťánek",
+      "side": "opp"
+     }
+    ]
+   },
+   "detail": true
+  },
+  {
+   "id": "6a54c6ead14e91f303fdff21",
+   "team": "a-muzstvo",
+   "date": "2027-03-07",
+   "time": "14:30",
+   "home": false,
+   "opponent": "FC Družstevník Rybky",
+   "oppSpace": "tj-fc-druzstevnik-rybky.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "16",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6ecd14e91f303fe07d9",
+   "team": "a-muzstvo",
+   "date": "2027-03-14",
+   "time": "14:30",
+   "home": true,
+   "opponent": "TJ Iskra - Horné Orešany",
+   "oppSpace": "tj-iskra-horne-oresany.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "17",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6ead14e91f303fdff72",
+   "team": "a-muzstvo",
+   "date": "2027-03-21",
+   "time": "15:00",
+   "home": false,
+   "opponent": "TJ Sokol Borský Mikuláš",
+   "oppSpace": "tj-sokol-borsky-mikulas.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "18",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a50f5dcd14e91f303dcd2ad",
+   "team": "u9-pripravka",
+   "date": "2027-03-26",
+   "time": "15:00",
+   "home": false,
+   "opponent": "OŠK Slovan Beckov",
+   "oppSpace": "osk-slovan-beckov.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "10",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6ebd14e91f303fe0179",
+   "team": "a-muzstvo",
+   "date": "2027-03-28",
+   "time": "15:00",
+   "home": true,
+   "opponent": "TJ Slovan Dubovce",
+   "oppSpace": "tj-slovan-dubovce.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "19",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a50f5dcd14e91f303dcd2f3",
+   "team": "u9-pripravka",
+   "date": "2027-04-02",
+   "time": "16:00",
+   "home": true,
+   "opponent": "ŠK Dolné Srnie",
+   "oppSpace": "sk-dolne-srnie.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "11",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6ebd14e91f303fe04c4",
+   "team": "a-muzstvo",
+   "date": "2027-04-04",
+   "time": "16:00",
+   "home": false,
+   "opponent": "TJ Baník Brodské",
+   "oppSpace": "tj-banik-brodske.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "20",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a50f5dcd14e91f303dcd2fa",
+   "team": "u9-pripravka",
+   "date": "2027-04-09",
+   "time": "16:00",
+   "home": false,
+   "opponent": "MFK Stará Turá",
+   "oppSpace": "mfk-stara-tura.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "12",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6ebd14e91f303fe0339",
+   "team": "a-muzstvo",
+   "date": "2027-04-11",
+   "time": "16:00",
+   "home": false,
+   "opponent": "TJ Tatran Jablonica",
+   "oppSpace": "tj-tatran-jablonica.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "21",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a50f5dcd14e91f303dcd466",
+   "team": "u9-pripravka",
+   "date": "2027-04-16",
+   "time": "16:30",
+   "home": false,
+   "opponent": "TJ Spartak Horná Streda",
+   "oppSpace": "tj-spartak-horna-streda.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "13",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6ebd14e91f303fe02a8",
+   "team": "a-muzstvo",
+   "date": "2027-04-18",
+   "time": "16:30",
+   "home": true,
+   "opponent": "Telovýchovná jednota Kopčany",
+   "oppSpace": "tj-kopcany.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "22",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a50f5dcd14e91f303dcd457",
+   "team": "u9-pripravka",
+   "date": "2027-04-23",
+   "time": "16:30",
+   "home": true,
+   "opponent": "OŠK Hôrka nad Váhom",
+   "oppSpace": "osk-horka-nad-vahom.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "14",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6edd14e91f303fe0c44",
+   "team": "a-muzstvo",
+   "date": "2027-04-25",
+   "time": "16:30",
+   "home": false,
+   "opponent": "",
+   "oppSpace": "",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "23",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a50f5dcd14e91f303dcd476",
+   "team": "u9-pripravka",
+   "date": "2027-04-30",
+   "time": "16:30",
+   "home": true,
+   "opponent": "FK Bradlan Brezová pod Bradlom",
+   "oppSpace": "fk-bradlan-brezova-pod-bradlom.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "15",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6ebd14e91f303fe0525",
+   "team": "a-muzstvo",
+   "date": "2027-05-02",
+   "time": "17:00",
+   "home": true,
+   "opponent": "TJ Slavoj Moravský Svätý Ján",
+   "oppSpace": "tj-slavoj-moravsky-svaty-jan.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "24",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a50f5dcd14e91f303dcd488",
+   "team": "u9-pripravka",
+   "date": "2027-05-07",
+   "time": "17:00",
+   "home": false,
+   "opponent": "OŠK Bošáca",
+   "oppSpace": "osk-bosaca.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "16",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6ebd14e91f303fe0439",
+   "team": "a-muzstvo",
+   "date": "2027-05-09",
+   "time": "17:00",
+   "home": false,
+   "opponent": "TJ Iskra Holíč",
+   "oppSpace": "tj-iskra-holic.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "25",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a50f5ddd14e91f303dcd721",
+   "team": "u9-pripravka",
+   "date": "2027-05-14",
+   "time": "17:00",
+   "home": true,
+   "opponent": "OŠK Slovan Beckov",
+   "oppSpace": "osk-slovan-beckov.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "17",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6ecd14e91f303fe095e",
+   "team": "a-muzstvo",
+   "date": "2027-05-16",
+   "time": "17:00",
+   "home": true,
+   "opponent": "TJ Slovan Šaštín - Stráže",
+   "oppSpace": "tj-slovan-sastin-straze.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "26",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a50f5ddd14e91f303dcd6fe",
+   "team": "u9-pripravka",
+   "date": "2027-05-21",
+   "time": "17:30",
+   "home": false,
+   "opponent": "ŠK Dolné Srnie",
+   "oppSpace": "sk-dolne-srnie.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "18",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6f4d14e91f303fe1e0a",
+   "team": "a-muzstvo",
+   "date": "2027-05-23",
+   "time": "17:00",
+   "home": false,
+   "opponent": "TJ Slovan Rovnosť Krajné",
+   "oppSpace": "tj-slovan-rovnost-krajne.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "27",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a50f5ddd14e91f303dcd6be",
+   "team": "u9-pripravka",
+   "date": "2027-05-28",
+   "time": "17:30",
+   "home": true,
+   "opponent": "MFK Stará Turá",
+   "oppSpace": "mfk-stara-tura.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "19",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6ecd14e91f303fe09ea",
+   "team": "a-muzstvo",
+   "date": "2027-05-30",
+   "time": "17:00",
+   "home": true,
+   "opponent": "TJ SPARTAK ŠAŠTÍN-STRÁŽE",
+   "oppSpace": "tj-spartak-sastin-straze.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "28",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a50f5ddd14e91f303dcd6ca",
+   "team": "u9-pripravka",
+   "date": "2027-06-04",
+   "time": "17:30",
+   "home": true,
+   "opponent": "TJ Spartak Horná Streda",
+   "oppSpace": "tj-spartak-horna-streda.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "20",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6edd14e91f303fe0d80",
+   "team": "a-muzstvo",
+   "date": "2027-06-06",
+   "time": "17:00",
+   "home": false,
+   "opponent": "ŠFK Štefanov",
+   "oppSpace": "sfk-stefanov.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "29",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a50f5ddd14e91f303dcd823",
+   "team": "u9-pripravka",
+   "date": "2027-06-11",
+   "time": "17:30",
+   "home": false,
+   "opponent": "OŠK Hôrka nad Váhom",
+   "oppSpace": "osk-horka-nad-vahom.futbalnet.sk",
+   "comp": "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5",
+   "competition": "III. liga U09 - ObFZ TN",
+   "round": "21",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  },
+  {
+   "id": "6a54c6edd14e91f303fe0cad",
+   "team": "a-muzstvo",
+   "date": "2027-06-13",
+   "time": "17:00",
+   "home": true,
+   "opponent": "FK Oreské",
+   "oppSpace": "fk-oreske.futbalnet.sk",
+   "comp": "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e",
+   "competition": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "round": "30",
+   "played": false,
+   "score": null,
+   "goals": [],
+   "cards": [],
+   "venue": "",
+   "url": null
+  }
+ ],
+ "tables": {
+  "6a0ff2d65736165c0e4155e3/6a0ff2d63bff416b52e1d01e": {
+   "name": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "part": "VI. liga Západ  Macron | yoursport  ZsFZ",
+   "team": "a-muzstvo",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "FC Družstevník Rybky",
+     "space": "tj-fc-druzstevnik-rybky.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 11,
+     "draw": 2,
+     "lost": 1,
+     "gf": 48,
+     "ga": 18,
+     "pts": 35,
+     "out": false
+    },
+    {
+     "pos": 2,
+     "name": "TJ Iskra Holíč",
+     "space": "tj-iskra-holic.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 9,
+     "draw": 1,
+     "lost": 4,
+     "gf": 37,
+     "ga": 21,
+     "pts": 28,
+     "out": false
+    },
+    {
+     "pos": 3,
+     "name": "TJ Slovan Rovnosť Krajné",
+     "space": "tj-slovan-rovnost-krajne.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 8,
+     "draw": 3,
+     "lost": 3,
+     "gf": 46,
+     "ga": 28,
+     "pts": 27,
+     "out": false
+    },
+    {
+     "pos": 4,
+     "name": "TJ Tatran Jablonica",
+     "space": "tj-tatran-jablonica.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 8,
+     "draw": 2,
+     "lost": 4,
+     "gf": 31,
+     "ga": 22,
+     "pts": 26,
+     "out": false
+    },
+    {
+     "pos": 5,
+     "name": "TJ Slovan Dubovce",
+     "space": "tj-slovan-dubovce.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 8,
+     "draw": 2,
+     "lost": 4,
+     "gf": 24,
+     "ga": 14,
+     "pts": 26,
+     "out": false
+    },
+    {
+     "pos": 6,
+     "name": "Telovýchovná jednota Kopčany",
+     "space": "tj-kopcany.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 8,
+     "draw": 1,
+     "lost": 5,
+     "gf": 41,
+     "ga": 28,
+     "pts": 25,
+     "out": false
+    },
+    {
+     "pos": 7,
+     "name": "TJ Jednota Brestovec",
+     "space": "tj-jednota-brestovec.futbalnet.sk",
+     "our": true,
+     "played": 14,
+     "won": 7,
+     "draw": 3,
+     "lost": 4,
+     "gf": 28,
+     "ga": 26,
+     "pts": 24,
+     "out": false
+    },
+    {
+     "pos": 8,
+     "name": "TJ Sokol Borský Mikuláš",
+     "space": "tj-sokol-borsky-mikulas.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 6,
+     "draw": 3,
+     "lost": 5,
+     "gf": 24,
+     "ga": 22,
+     "pts": 21,
+     "out": false
+    },
+    {
+     "pos": 9,
+     "name": "TJ Slovan Šaštín - Stráže",
+     "space": "tj-slovan-sastin-straze.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 4,
+     "draw": 5,
+     "lost": 5,
+     "gf": 22,
+     "ga": 28,
+     "pts": 17,
+     "out": false
+    },
+    {
+     "pos": 10,
+     "name": "TJ Baník Brodské",
+     "space": "tj-banik-brodske.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 5,
+     "draw": 1,
+     "lost": 8,
+     "gf": 20,
+     "ga": 32,
+     "pts": 16,
+     "out": false
+    },
+    {
+     "pos": 11,
+     "name": "TJ SPARTAK ŠAŠTÍN-STRÁŽE",
+     "space": "tj-spartak-sastin-straze.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 5,
+     "draw": 1,
+     "lost": 8,
+     "gf": 29,
+     "ga": 31,
+     "pts": 16,
+     "out": false
+    },
+    {
+     "pos": 12,
+     "name": "TJ Iskra - Horné Orešany",
+     "space": "tj-iskra-horne-oresany.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 4,
+     "draw": 2,
+     "lost": 8,
+     "gf": 26,
+     "ga": 51,
+     "pts": 14,
+     "out": false
+    },
+    {
+     "pos": 13,
+     "name": "ŠFK Štefanov",
+     "space": "sfk-stefanov.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 4,
+     "draw": 1,
+     "lost": 9,
+     "gf": 22,
+     "ga": 33,
+     "pts": 13,
+     "out": false
+    },
+    {
+     "pos": 14,
+     "name": "FK Oreské",
+     "space": "fk-oreske.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 2,
+     "draw": 1,
+     "lost": 11,
+     "gf": 16,
+     "ga": 39,
+     "pts": 7,
+     "out": false
+    },
+    {
+     "pos": 15,
+     "name": "TJ Slavoj Moravský Svätý Ján",
+     "space": "tj-slavoj-moravsky-svaty-jan.futbalnet.sk",
+     "our": false,
+     "played": 14,
+     "won": 2,
+     "draw": 0,
+     "lost": 12,
+     "gf": 14,
+     "ga": 35,
+     "pts": 6,
+     "out": false
+    }
+   ]
+  },
+  "6a26c85c233cdeb1e781f0f6/6a26c8fe07041eda4046c4d5": {
+   "name": "III. liga U09 - ObFZ TN",
+   "part": "III. liga U09 Juh",
+   "team": "u9-pripravka",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "OŠK Hôrka nad Váhom",
+     "space": "osk-horka-nad-vahom.futbalnet.sk",
+     "our": false,
+     "played": 8,
+     "won": 1,
+     "draw": 7,
+     "lost": 0,
+     "gf": 18,
+     "ga": 6,
+     "pts": 10,
+     "out": false
+    },
+    {
+     "pos": 2,
+     "name": "TJ Jednota Brestovec",
+     "space": "tj-jednota-brestovec.futbalnet.sk",
+     "our": true,
+     "played": 9,
+     "won": 0,
+     "draw": 9,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "pts": 9,
+     "out": false
+    },
+    {
+     "pos": 3,
+     "name": "OŠK Bošáca",
+     "space": "osk-bosaca.futbalnet.sk",
+     "our": false,
+     "played": 8,
+     "won": 0,
+     "draw": 8,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "pts": 8,
+     "out": false
+    },
+    {
+     "pos": 4,
+     "name": "ŠK Dolné Srnie",
+     "space": "sk-dolne-srnie.futbalnet.sk",
+     "our": false,
+     "played": 9,
+     "won": 0,
+     "draw": 8,
+     "lost": 1,
+     "gf": 6,
+     "ga": 18,
+     "pts": 8,
+     "out": false
+    },
+    {
+     "pos": 5,
+     "name": "TJ Spartak Horná Streda",
+     "space": "tj-spartak-horna-streda.futbalnet.sk",
+     "our": false,
+     "played": 8,
+     "won": 0,
+     "draw": 8,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "pts": 8,
+     "out": false
+    },
+    {
+     "pos": 6,
+     "name": "FK Bradlan Brezová pod Bradlom",
+     "space": "fk-bradlan-brezova-pod-bradlom.futbalnet.sk",
+     "our": false,
+     "played": 7,
+     "won": 0,
+     "draw": 7,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "pts": 7,
+     "out": false
+    },
+    {
+     "pos": 7,
+     "name": "OŠK Slovan Beckov",
+     "space": "osk-slovan-beckov.futbalnet.sk",
+     "our": false,
+     "played": 6,
+     "won": 0,
+     "draw": 6,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "pts": 6,
+     "out": false
+    },
+    {
+     "pos": 8,
+     "name": "MFK Stará Turá",
+     "space": "mfk-stara-tura.futbalnet.sk",
+     "our": false,
+     "played": 5,
+     "won": 0,
+     "draw": 5,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "pts": 5,
+     "out": false
+    }
+   ]
+  }
+ },
+ "clubs": {
+  "fk-bradlan-brezova-pod-bradlom.futbalnet.sk": "FK Bradlan Brezová pod Bradlom",
+  "fk-oreske.futbalnet.sk": "FK Oreské",
+  "mfk-stara-tura.futbalnet.sk": "MFK Stará Turá",
+  "osk-bosaca.futbalnet.sk": "OŠK Bošáca",
+  "osk-horka-nad-vahom.futbalnet.sk": "OŠK Hôrka nad Váhom",
+  "osk-slovan-beckov.futbalnet.sk": "OŠK Slovan Beckov",
+  "sfk-stefanov.futbalnet.sk": "ŠFK Štefanov",
+  "sk-dolne-srnie.futbalnet.sk": "ŠK Dolné Srnie",
+  "tj-banik-brodske.futbalnet.sk": "TJ Baník Brodské",
+  "tj-fc-druzstevnik-rybky.futbalnet.sk": "FC Družstevník Rybky",
+  "tj-iskra-holic.futbalnet.sk": "TJ Iskra Holíč",
+  "tj-iskra-horne-oresany.futbalnet.sk": "TJ Iskra - Horné Orešany",
+  "tj-jednota-brestovec.futbalnet.sk": "TJ Jednota Brestovec",
+  "tj-kopcany.futbalnet.sk": "Telovýchovná jednota Kopčany",
+  "tj-slavoj-moravsky-svaty-jan.futbalnet.sk": "TJ Slavoj Moravský Svätý Ján",
+  "tj-slovan-dubovce.futbalnet.sk": "TJ Slovan Dubovce",
+  "tj-slovan-rovnost-krajne.futbalnet.sk": "TJ Slovan Rovnosť Krajné",
+  "tj-slovan-sastin-straze.futbalnet.sk": "TJ Slovan Šaštín - Stráže",
+  "tj-sokol-borsky-mikulas.futbalnet.sk": "TJ Sokol Borský Mikuláš",
+  "tj-spartak-horna-streda.futbalnet.sk": "TJ Spartak Horná Streda",
+  "tj-spartak-sastin-straze.futbalnet.sk": "TJ SPARTAK ŠAŠTÍN-STRÁŽE",
+  "tj-tatran-jablonica.futbalnet.sk": "TJ Tatran Jablonica"
+ }
+}
