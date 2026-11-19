@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:zapas-6a54c6f0d14e91f303fe1430@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20260809T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – FC Družstevník Rybky 3:0
@@ -33,7 +33,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e7d14e91f303fdef0a@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20260816T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Iskra Horné Orešany – TJ Jednota Brestovec 1:2
@@ -42,7 +42,7 @@ LOCATION:TJ Iskra
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e9d14e91f303fdf859@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20260823T173000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – TJ Sokol Borský Mikuláš 5:
@@ -52,7 +52,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e9d14e91f303fdfa3a@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20260830T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Dubovce – TJ Jednota Brestovec 4:1
@@ -61,7 +61,7 @@ LOCATION:Slovan Dubovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6edd14e91f303fe0c76@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20260906T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – TJ Baník Brodské 1:1
@@ -70,7 +70,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fdfbfd@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20260913T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – TJ Tatran Jablonica 1:0
@@ -79,7 +79,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fdfc23@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20260920T153000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Kopčany – TJ Jednota Brestovec 5:0
@@ -88,7 +88,7 @@ LOCATION:TJ Kopčany
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6f1d14e91f303fe1778@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20261004T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slavoj Moravský Svätý Ján – TJ Jednota Bresto
@@ -98,7 +98,7 @@ LOCATION:Štadión TJ Slavoj
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fdfc8e@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20261011T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – TJ Iskra Holíč 1:1
@@ -107,7 +107,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fdfe8a@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20261018T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Šaštín-Stráže – TJ Jednota Brestovec 
@@ -117,7 +117,7 @@ LOCATION:TJ Slovan Šaštín
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fdfc0c@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20261025T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – TJ Slovan Rovnosť Krajné 2:
@@ -127,7 +127,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6f2d14e91f303fe18f8@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20261101T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Spartak Šaštín-Stráže – TJ Jednota Brestovec
@@ -137,7 +137,7 @@ LOCATION:Spartak Stráže
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fdfe78@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20261108T133000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – ŠFK Štefanov 2:0
@@ -146,7 +146,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fdfbff@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20261115T133000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Oreské – TJ Jednota Brestovec 4:0
@@ -155,7 +155,7 @@ LOCATION:FK Oreské
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fdff21@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270307T143000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FC Družstevník Rybky – TJ Jednota Brestovec
@@ -163,7 +163,7 @@ DESCRIPTION:VI. liga Západ\, 16. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe07d9@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270314T143000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – TJ Iskra Horné Orešany
@@ -171,7 +171,7 @@ DESCRIPTION:VI. liga Západ\, 17. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fdff72@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270321T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Sokol Borský Mikuláš – TJ Jednota Brestovec
@@ -179,7 +179,7 @@ DESCRIPTION:VI. liga Západ\, 18. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ebd14e91f303fe0179@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270328T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – TJ Slovan Dubovce
@@ -187,7 +187,7 @@ DESCRIPTION:VI. liga Západ\, 19. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ebd14e91f303fe04c4@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270404T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Baník Brodské – TJ Jednota Brestovec
@@ -195,7 +195,7 @@ DESCRIPTION:VI. liga Západ\, 20. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ebd14e91f303fe0339@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270411T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Tatran Jablonica – TJ Jednota Brestovec
@@ -203,7 +203,7 @@ DESCRIPTION:VI. liga Západ\, 21. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ebd14e91f303fe02a8@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270418T163000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – TJ Kopčany
@@ -211,7 +211,7 @@ DESCRIPTION:VI. liga Západ\, 22. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ebd14e91f303fe0525@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270502T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – TJ Slavoj Moravský Svätý J
@@ -220,7 +220,7 @@ DESCRIPTION:VI. liga Západ\, 24. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ebd14e91f303fe0439@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270509T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Iskra Holíč – TJ Jednota Brestovec
@@ -228,7 +228,7 @@ DESCRIPTION:VI. liga Západ\, 25. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe095e@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270516T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – TJ Slovan Šaštín-Stráže
@@ -236,7 +236,7 @@ DESCRIPTION:VI. liga Západ\, 26. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6f4d14e91f303fe1e0a@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270523T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Jednota Brestovec
@@ -244,7 +244,7 @@ DESCRIPTION:VI. liga Západ\, 27. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe09ea@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270530T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – TJ Spartak Šaštín-Stráže
@@ -252,7 +252,7 @@ DESCRIPTION:VI. liga Západ\, 28. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6edd14e91f303fe0d80@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270606T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: ŠFK Štefanov – TJ Jednota Brestovec
@@ -260,7 +260,7 @@ DESCRIPTION:VI. liga Západ\, 29. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6edd14e91f303fe0cad@tj-jednota-brestovec.sportnet
-DTSTAMP:20261118T074209Z
+DTSTAMP:20261119T114037Z
 DTSTART;TZID=Europe/Bratislava:20270613T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – FK Oreské
