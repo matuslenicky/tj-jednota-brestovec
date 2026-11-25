@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:zapas-6a50f5dbd14e91f303dccf94@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20260828T173000
 DURATION:PT2H
 SUMMARY:U9: TJ Jednota Brestovec U9 – FK Bradlan Brezová pod Bradlom
@@ -33,7 +33,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dbd14e91f303dccfa3@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20260904T163000
 DURATION:PT2H
 SUMMARY:U9: OŠK Bošáca – TJ Jednota Brestovec U9
@@ -42,7 +42,7 @@ LOCATION:OŠK Bošáca
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dbd14e91f303dcd010@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20260911T163000
 DURATION:PT2H
 SUMMARY:U9: TJ Jednota Brestovec U9 – OŠK Slovan Beckov
@@ -51,7 +51,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dbd14e91f303dcd036@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20260919T103000
 DURATION:PT2H
 SUMMARY:U9: ŠK Dolné Srnie – TJ Jednota Brestovec U9
@@ -60,7 +60,7 @@ LOCATION:Ihrisko č. 1
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dbd14e91f303dcd10a@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20260925T160000
 DURATION:PT2H
 SUMMARY:U9: TJ Jednota Brestovec U9 – MFK Stará Turá
@@ -69,7 +69,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dcd14e91f303dcd20f@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20261002T153000
 DURATION:PT2H
 SUMMARY:U9: TJ Jednota Brestovec U9 – TJ Spartak Horná Streda
@@ -78,7 +78,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dcd14e91f303dcd1ce@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20261009T153000
 DURATION:PT2H
 SUMMARY:U9: OŠK Hôrka nad Váhom – TJ Jednota Brestovec U9
@@ -87,7 +87,7 @@ LOCATION:Futbalový štadión OŠK Hôrka nad Váhom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dbd14e91f303dcd105@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20261016T143000
 DURATION:PT2H
 SUMMARY:U9: FK Bradlan Brezová pod Bradlom – TJ Jednota Brestovec U9
@@ -96,7 +96,7 @@ LOCATION:Štadión ŠVS Bradlan Brezová pod Bradlom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dcd14e91f303dcd355@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20261023T143000
 DURATION:PT2H
 SUMMARY:U9: TJ Jednota Brestovec U9 – OŠK Bošáca
@@ -105,7 +105,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dcd14e91f303dcd2ad@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20270326T150000
 DURATION:PT2H
 SUMMARY:U9: OŠK Slovan Beckov – TJ Jednota Brestovec U9
@@ -113,7 +113,7 @@ DESCRIPTION:III. liga prípraviek U9\, 10. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dcd14e91f303dcd2f3@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20270402T160000
 DURATION:PT2H
 SUMMARY:U9: TJ Jednota Brestovec U9 – ŠK Dolné Srnie
@@ -121,7 +121,7 @@ DESCRIPTION:III. liga prípraviek U9\, 11. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dcd14e91f303dcd2fa@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20270409T160000
 DURATION:PT2H
 SUMMARY:U9: MFK Stará Turá – TJ Jednota Brestovec U9
@@ -129,7 +129,7 @@ DESCRIPTION:III. liga prípraviek U9\, 12. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dcd14e91f303dcd466@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20270416T163000
 DURATION:PT2H
 SUMMARY:U9: TJ Spartak Horná Streda – TJ Jednota Brestovec U9
@@ -137,7 +137,7 @@ DESCRIPTION:III. liga prípraviek U9\, 13. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dcd14e91f303dcd457@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20270423T163000
 DURATION:PT2H
 SUMMARY:U9: TJ Jednota Brestovec U9 – OŠK Hôrka nad Váhom
@@ -145,7 +145,7 @@ DESCRIPTION:III. liga prípraviek U9\, 14. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dcd14e91f303dcd476@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20270430T163000
 DURATION:PT2H
 SUMMARY:U9: TJ Jednota Brestovec U9 – FK Bradlan Brezová pod Bradlom
@@ -153,7 +153,7 @@ DESCRIPTION:III. liga prípraviek U9\, 15. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5dcd14e91f303dcd488@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20270507T170000
 DURATION:PT2H
 SUMMARY:U9: OŠK Bošáca – TJ Jednota Brestovec U9
@@ -161,7 +161,7 @@ DESCRIPTION:III. liga prípraviek U9\, 16. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5ddd14e91f303dcd721@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20270514T170000
 DURATION:PT2H
 SUMMARY:U9: TJ Jednota Brestovec U9 – OŠK Slovan Beckov
@@ -169,7 +169,7 @@ DESCRIPTION:III. liga prípraviek U9\, 17. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5ddd14e91f303dcd6fe@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20270521T173000
 DURATION:PT2H
 SUMMARY:U9: ŠK Dolné Srnie – TJ Jednota Brestovec U9
@@ -177,7 +177,7 @@ DESCRIPTION:III. liga prípraviek U9\, 18. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5ddd14e91f303dcd6be@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20270528T173000
 DURATION:PT2H
 SUMMARY:U9: TJ Jednota Brestovec U9 – MFK Stará Turá
@@ -185,7 +185,7 @@ DESCRIPTION:III. liga prípraviek U9\, 19. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5ddd14e91f303dcd6ca@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20270604T173000
 DURATION:PT2H
 SUMMARY:U9: TJ Jednota Brestovec U9 – TJ Spartak Horná Streda
@@ -193,7 +193,7 @@ DESCRIPTION:III. liga prípraviek U9\, 20. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a50f5ddd14e91f303dcd823@tj-jednota-brestovec.sportnet
-DTSTAMP:20261124T134324Z
+DTSTAMP:20261125T125612Z
 DTSTART;TZID=Europe/Bratislava:20270611T173000
 DURATION:PT2H
 SUMMARY:U9: OŠK Hôrka nad Váhom – TJ Jednota Brestovec U9
